@@ -17,13 +17,22 @@ title: Session Reports
 description: >- # this means to ignore newlines until "baseurl:"
   Session reports for RPGs
 baseurl: "/session-reports" # the subpath of your site, e.g. /blog
-url: "https://juanferrer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://juanferrer.dev" # the base hostname & protocol for your site, e.g. http://example.com
+locale: en-GB
+collections_dir: campaigns
 
 # Build settings
 markdown: kramdown
 theme: minima
+date_format: "%-d %B %Y"
+# remote_theme: 
 plugins:
   - jekyll-feed
+
+
+minima: 
+  date_format: "%e %b %Y"
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -36,3 +45,31 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections
+collections:
+  torchbearers:
+    output: true
+    permalink: /:collection/:name
+    pretty_name: "Torchbearers"
+    sort_by: number
+
+  heroes_for_ghosts:
+    output: true
+    permalink: /:collection/:name
+    pretty_name: "Heroes For Ghosts"
+    sort_by: number
+
+# Default front matter
+defaults:
+  - scope:
+      path: "campaigns/*"
+      types: 
+        - torchbearers
+        - "heroes_for_ghosts"
+
+    values:
+      layout: post
+
+header_pages:
+  - indices/campaigns.html

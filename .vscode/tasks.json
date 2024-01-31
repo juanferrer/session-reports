@@ -1,0 +1,31 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Serve Jekyll",
+        "isBackground": true,
+        "type": "shell",
+        "command": "bundle exec jekyll serve",
+        "problemMatcher": {
+          "owner": "external",
+          "fileLocation": "relative",
+          "pattern": {
+            "regexp": "^\\[(\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2})\\] (ERROR|WARNING) (.*)$",
+            "severity": 2,
+            "message": 3
+          },
+          "background": {
+            "activeOnStart": false,
+            "beginsPattern": "^Configuration file:*",
+            "endsPattern": "^\\s*Server running...*"
+          }
+        },
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }

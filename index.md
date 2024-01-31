@@ -4,3 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# Campaigns
+
+{% for campaign in site.collections %}
+{% if campaign.label != "posts" %}
+<a href="{{campaign.url}}{{campaign.label}}">{{campaign.pretty_name}}</a>
+{% endif %}
+{% endfor %}

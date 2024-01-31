@@ -1,0 +1,11 @@
+---
+layout: page
+title: Campaigns
+permalink: /campaigns/
+---
+
+{% for campaign in site.collections %}
+{% if campaign.label != "posts" %}
+<a href="{{campaign.url}}{{campaign.label}}">{{campaign.pretty_name}}</a>
+{% endif %}
+{% endfor %}
