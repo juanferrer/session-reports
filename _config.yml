@@ -24,11 +24,9 @@ collections_dir: campaigns
 # Build settings
 markdown: kramdown
 theme: minima
-date_format: "%-d %B %Y"
 # remote_theme: 
 plugins:
   - jekyll-feed
-
 
 minima: 
   date_format: "%e %b %Y"
@@ -66,10 +64,10 @@ defaults:
       path: "campaigns/*"
       types: 
         - torchbearers
-        - "heroes_for_ghosts"
+        - heroes_for_ghosts
 
     values:
       layout: post
 
 header_pages:
-  - indices/campaigns.html
+  - about.md

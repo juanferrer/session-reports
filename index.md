@@ -5,10 +5,8 @@
 layout: home
 ---
 
-# Campaigns
-
 {% for campaign in site.collections %}
 {% if campaign.label != "posts" %}
-<a href="{{campaign.url}}{{campaign.label}}">{{campaign.pretty_name}}</a>
+<a href="{{campaign.label}}">{{campaign.pretty_name}}</a><br/>
 {% endif %}
 {% endfor %}
