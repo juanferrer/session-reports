@@ -1,7 +1,7 @@
 ---
 title: "Session 0"
 number: 0
-date: 2023-01-27
+date: 2024-05-18
 ---
 
 Session 0
