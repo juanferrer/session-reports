@@ -33,7 +33,7 @@ Panadon was led off to interview Dr Calla d'Jorasco (transcript below).
 
 Scry News Calla Interview
 
-> **Pan**: This is Panadon Boondingle coming to you live from a bloody scene on the Talenta Plains.  Before the break you saw the interview with "Bob", who had been part of the group that uncovered the crimes committed here by House Jorasco.  I am joined now by one of the chief perpetrators, Dr Calla d'Jorasco.
+> **Pan**: This is Panadon Boondingle coming to you live from a bloody scene on the Talenta Plains. Before the break you saw the interview with "Bob", who had been part of the group that uncovered the crimes committed here by House Jorasco. I am joined now by one of the chief perpetrators, Dr Calla d'Jorasco.
 >
 > **P**: Doctor, can you tell our viewers what your role was here?
 >
@@ -49,7 +49,7 @@ Scry News Calla Interview
 >
 > **P**: What happened to the volunteers when they arrived here? I heard they were drugged?
 >
-> **C**:  They were settled in their new homes and we began adding a substance to their meals.
+> **C**: They were settled in their new homes and we began adding a substance to their meals.
 >
 > **P**: What was this substance?
 >
@@ -69,7 +69,7 @@ Scry News Calla Interview
 >
 > **P**: And the purpose of this "processed Lambear"?
 >
-> **C**: In conjunction with a magical field emitted by an arcane device it provided the ability for them to work long hours with very little rest.  It also made them docile and suggestable.
+> **C**: In conjunction with a magical field emitted by an arcane device it provided the ability for them to work long hours with very little rest. It also made them docile and suggestable.
 >
 > **P**: So they were drugged and charmed?
 >
@@ -85,36 +85,36 @@ Scry News Calla Interview
 >
 > **P**: Why was House Jorasco, the house of healing, involved in what can only be described as an evil plot to exploit these refugees?
 >
-> **C**: Is it evil to provide bulk healing potions to those who need them in Khorvaire?  Not just to those who can afford two months wages on one but healing within everyone's reach?
+> **C**: Is it evil to provide bulk healing potions to those who need them in Khorvaire? Not just to those who can afford two months wages on one but healing within everyone's reach?
 >
-> **P**: Why not use regular workers?  Why not use Warforged?
+> **P**: Why not use regular workers? Why not use Warforged?
 >
-> **C**:  Well that's just it isn't it!  Since Thornehold the creation forges are closed and there are not enough Forged to go round.  We could have created new workers as productive and relentless as the Warforged.
+> **C**: Well that's just it isn't it! Since Thornehold the creation forges are closed and there are not enough Forged to go round. We could have created new workers as productive and relentless as the Warforged.
 >
 > **P**: So you were turning them into fleshy Warforged.
 >
 > **C**: *No response*
 >
-> **P**:  All this was done on the sovereign soil of the Telenta Plains.  Were the Lath's complicit in these crimes?
+> **P**: All this was done on the sovereign soil of the Telenta Plains. Were the Lath's complicit in these crimes?
 >
-> **C**: House Jorasco had made arrangements with the Conclave to settle at these four sites.  I do not know the details of those arrangements.
+> **C**: House Jorasco had made arrangements with the Conclave to settle at these four sites. I do not know the details of those arrangements.
 >
 > **P**: You must know if they were aware of what was being done?
 >
-> **C**: We were told by the House not to let any locals on site.  Though they kept away anyway.  The device had the unexpected benefit of keeping away the wildlife and the halflings avoided  the area.
+> **C**: We were told by the House not to let any locals on site. Though they kept away anyway. The device had the unexpected benefit of keeping away the wildlife and the halflings avoided the area.
 >
 > **P**: Can you tell me how it went from this mind-controlled sweatshop to the destruction our viewers have seen outside?
 >
-> **C**: Three days ago four outsiders arrived here.  One of them was looking for her sister.  We tried to contain the situation by getting them to take the same concoction as the residents but somehow they avoided its effects.  They set about freeing the workers and in the process destroyed the machine keeping them under our control.
+> **C**: Three days ago four outsiders arrived here. One of them was looking for her sister. We tried to contain the situation by getting them to take the same concoction as the residents but somehow they avoided its effects. They set about freeing the workers and in the process destroyed the machine keeping them under our control.
 >
 > **P**: That does not explain the dozen or so heavily armed corpses outside.
 >
-> **C**: When I suspected we might have a security breach I messaged our headquarters.  They sent a squad of Deneith mercenaries to check it was secure.   They were unsuccessful. 
+> **C**: When I suspected we might have a security breach I messaged our headquarters. They sent a squad of Deneith mercenaries to check it was secure. They were unsuccessful. 
 >
-> **P**:  And what do you think will happen to you now?  You are surely facing criminal charges and the wrath of your house.
+> **P**: And what do you think will happen to you now? You are surely facing criminal charges and the wrath of your house.
 >
-> **C**:  I have agreed to go to Gatherhold and testify in front of the Conclave.  Hopefully they will have mercy on me and protect me from Jorasco.
+> **C**: I have agreed to go to Gatherhold and testify in front of the Conclave. Hopefully they will have mercy on me and protect me from Jorasco.
 >
-> **P**:  Thank you doctor.
+> **P**: Thank you doctor.
 >
-> **P**:  This has been Panadon Boondiggles for Scry News bringing you this shocking news from the Talenta Plains.  What's also shocking is our latest deals on our Scry Sports package - more details coming up next…
+> **P**: This has been Panadon Boondiggles for Scry News bringing you this shocking news from the Talenta Plains. What's also shocking is our latest deals on our Scry Sports package - more details coming up next…

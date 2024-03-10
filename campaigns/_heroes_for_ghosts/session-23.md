@@ -16,7 +16,7 @@ Sending response from Toquill:
 
 “Camp freed. We found the reporter. Got ingredients for the potion. Able got petrified. Need new instructions”
 
-RIP’s version: “Acid keeps 5 days. Per dose. Pipette 20 drops desiccator dry. Grind fine.  Mix ethylic 2 cups.  Alembic slowly.  Dilute 1 to  50 exalted-aqua. Bottle.”
+RIP’s version: “Acid keeps 5 days. Per dose. Pipette 20 drops desiccator dry. Grind fine. Mix ethylic 2 cups. Alembic slowly. Dilute 1 to 50 exalted-aqua. Bottle.”
 
 There was a bounty on Medusa’s head. She received her curse on a wish spell in Shadowmount Forest. She was visited by three hags. The curse will last until the followers of the Weavers seek the belly of the beast.
 
