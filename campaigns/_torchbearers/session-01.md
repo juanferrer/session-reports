@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Session 1"
+type: session
 number: 1
 date: 2024-05-18
 ---

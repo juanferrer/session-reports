@@ -1,5 +1,6 @@
 ---
 title: "Session 0"
+type: session
 number: 0
 date: 2024-05-18
 ---

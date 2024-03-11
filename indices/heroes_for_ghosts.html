@@ -4,16 +4,8 @@ title: Heroes for Ghosts
 permalink: /heroes_for_ghosts/
 ---
 
-Session reports for the {{site.title}} campaign
+Index for {{site.title}} campaign
 
-{% assign reports = site.heroes_for_ghosts %}
-
-<ul>
-    {% for report in reports reversed %}
-        <li>
-            <a href="{{report.absolute_path}}{{report.slug}}">{{report.title}}</a> - <i>{{report.date | date: "%e %b %Y"}}</i>
-        </li>
-    {% else %}
-        Nothing to see here...
-    {% endfor %}
-</ul>
+<p><a href="recaps">Recaps</a></p>
+<p><a href="handouts">Handouts</a></p>
+<p><a href="sessions">Session Notes</a></p>
