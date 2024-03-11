@@ -5,7 +5,7 @@ number: 9
 date: 2019-07-27
 ---
 
-![Outsiders: A Comprehensive Study](/assets/images/handouts/outsiders.png)
+![Outsiders: A Comprehensive Study](/session-reports/assets/images/handouts/outsiders.png)
 
 Outsiders: A Comprehensive Study
 by Niara Nirth
@@ -14,7 +14,7 @@ by Niara Nirth
 
 Vral'a'yak, the Delirium, manifests as a medium-sized aberration that appears to be in constant flux, twisting and warping in unnatural ways. Its unsettling presence leaves observers bewildered and disoriented, as though they are trapped in a feverish dream. The Delirium's form is as fluid as the very essence of chaos it embodies.
 
-![vralayak](/assets/images/handouts/vralayak-true-form.png)
+![vralayak](/session-reports/assets/images/handouts/vralayak-true-form.png)
 
 > *"In the labyrinth of madness, we encountered Vral'a'yak, the Delirium. Its ever-changing form deceived our senses, and in the whirlwind of chaos, we lost ourselves."*
 
@@ -36,7 +36,7 @@ Vral'a'yak is immune to charm, fear, and mind-altering effects. Its erratic natu
 
 Riman, the Frenzy, is a formidable aberration radiating an aura of unrestrained energy and perpetual motion. Its form is reminiscent of a swirling vortex of destruction, leaving chaos in its wake. The mere presence of Riman incites a feeling of urgency and panic.
 
-![riman](/assets/images/handouts/riman-true-form.png)
+![riman](/session-reports/assets/images/handouts/riman-true-form.png)
 
 > *"As we clashed with Riman, the Frenzy, the battlefield erupted into a frenzy of destruction. Its cleaver attacks swept through our ranks like a tempest, leaving naught but devastation in its wake."*
 
@@ -58,7 +58,7 @@ Riman is immune to exhaustion and fear. Its frenzied state grants it resistance 
 
 Xakin, the Paranoia, is a cunning and elusive aberration, lurking in the shadows like a whispering specter. Its presence evokes a sense of deep-seated fear and unease, causing those nearby to question their own perceptions. Xakin's form seems to shimmer and fade like a mirage, keeping its true intentions hidden.
 
-![xakin](/assets/images/handouts/xakin-true-form.png)
+![xakin](/session-reports/assets/images/handouts/xakin-true-form.png)
 
 > *"Beware the Paranoia, Xakin, for its ability to manipulate minds is unparalleled. Its stealthy approach left our party in constant fear, as we couldn't trust our own thoughts."*
 
@@ -80,7 +80,7 @@ Xakin is immune to being charmed and frightened. Its elusive nature grants it re
 
 Quillon, the Shatter of Realities, stands as a spell-casting aberration, its presence akin to gazing into a kaleidoscope of dimensions colliding. Its form embodies the very concept of multiple realities merging, with ever-shifting colors and shapes.
 
-![quillion](/assets/images/handouts/quillion-true-form.png)
+![quillion](/session-reports/assets/images/handouts/quillion-true-form.png)
 
 > *"In the presence of Quillon, the very laws of magic seem to unravel. Our spells faltered as the Shatter of Realities distorted the fabric of existence itself."*
 
@@ -102,7 +102,7 @@ Quillon is immune to most forms of magical manipulation, with its mastery of arc
 
 Xos, the Lord of Nightmares, exudes an aura of dread and malevolence, its visage twisted by the very essence of fear. Its form embodies the terrors that lurk within the darkest recesses of the mind. Xos's eyes glow with an ethereal light, a chilling reflection of the horrors it can unleash. 
 
-![xos](/assets/images/handouts/xos-true-form.png)
+![xos](/session-reports/assets/images/handouts/xos-true-form.png)
 
 > *"In the realm of dreams, we encountered Xos, the Lord of Nightmares. Its projections into our minds were the stuff of terrors, shaping the very fabric of our nightmares."*
 
@@ -124,7 +124,7 @@ Xos is immune to sleep and fear, as its domain over nightmares renders such effe
 
 Jedra, the Master of Mind Control, emanates an air of subtle manipulation, its serene demeanor belying its potent psychic abilities. Its form is an embodiment of the art of bending the wills of others. Its eyes seem to pierce the very souls of those who gaze upon them.
 
-![jedra](/assets/images/handouts/jedra-true-form.png)
+![jedra](/session-reports/assets/images/handouts/jedra-true-form.png)
 
 > *"As we confronted Jedra, the Master of Mind Control, our thoughts became entwined in its web of deception. Its psionic prowess left us helpless, mere pawns in its grand design."*
 
@@ -147,7 +147,7 @@ Jedra is immune to most forms of psychic manipulation, rendering many mind-affec
 
 Vaster, the Queen of Forbidden Knowledge, exudes an aura of profound wisdom and concealed truths. Its regal form embodies the mysteries of arcane secrets and the consequences of forbidden curiosity. Its eyes glimmer with knowledge beyond comprehension.
 
-![vaster](/assets/images/handouts/vaster-true-form.png)
+![vaster](/session-reports/assets/images/handouts/vaster-true-form.png)
 
 > *"In the Library of Arcane Secrets, we stood before Vaster, the Queen of Forbidden Knowledge. The allure of its vast wisdom was matched only by the danger that lurked within those hallowed halls."*
 

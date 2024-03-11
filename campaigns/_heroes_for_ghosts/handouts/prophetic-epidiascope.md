@@ -5,7 +5,7 @@ number: 10
 date: 2019-07-27
 ---
 
-![Prophetic Epidiascope](/assets/images/handouts/epidiascope.png)
+![Prophetic Epidiascope](/session-reports/assets/images/handouts/epidiascope.png)
 
 ## Initial setting as found in Palace of Storms, Metrol
 

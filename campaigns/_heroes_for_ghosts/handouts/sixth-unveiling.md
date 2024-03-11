@@ -5,7 +5,7 @@ number: 6
 date: 2019-07-27
 ---
 
-![Whispers of Metamagic: Shaping the Species](/assets/images/handouts/sixth-unveiling-01.png)
+![Whispers of Metamagic: Shaping the Species](/session-reports/assets/images/handouts/sixth-unveiling-01.png)
 
 Whispers of Metamagic: Shaping the Species
 by ? - ?
@@ -28,7 +28,7 @@ To grasp mirror magic is to dance on the precipice of madness, for it is a force
 
 "The Ritual of the Sixth Unveiling." Within the disorienting confines of this eldritch domain, thirteen shards of mirrors beckon, their fractured surfaces reflecting the myriad facets of existence.
 
-![circle-06](/assets/images/handouts/circle-06.png)
+![circle-06](/session-reports/assets/images/handouts/circle-06.png)
 
 These shards, like pieces of a shattered cosmic puzzle, resonate with the seven thoughts that ponder the very nature of beings:
 

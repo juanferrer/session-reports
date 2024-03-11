@@ -5,7 +5,7 @@ number: 1
 date: 2019-07-27
 ---
 
-![Necromatic Revelation: The Unveiling of the Abyssal Resurgence](/assets/images/handouts/first-unveiling-01.png)
+![Necromatic Revelation: The Unveiling of the Abyssal Resurgence](/session-reports/assets/images/handouts/first-unveiling-01.png)
 
 Necromatic Revelation: The Unveiling of the Abyssal Resurgence
 
@@ -27,7 +27,7 @@ Step by step, follow the incantations that stir the shadows, drawing the veil be
 
 6. Chained Echoes Circle: Seek out the rusted chains that dangle from the industrial pipes, remnants of a forgotten torment. Arrange the chains to form the Chained Echoes Circle, a mystical boundary that pulses with the resonance of the abyss. Within this ethereal ring, the incantations shall be spoken, bridging the realms in unholy harmony.
 
-![circle-01](/assets/images/handouts/circle-01.png)
+![circle-01](/session-reports/assets/images/handouts/circle-01.png)
 
 7. The incantation: From inside the circle of chain speak:
 

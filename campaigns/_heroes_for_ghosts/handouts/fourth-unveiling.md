@@ -5,7 +5,7 @@ number: 4
 date: 2019-07-27
 ---
 
-![The Eldritch Anatomy: Unveiling the Symphony of Medical Sorcery](/assets/images/handouts/fourth-unveiling-01.png)
+![The Eldritch Anatomy: Unveiling the Symphony of Medical Sorcery](/session-reports/assets/images/handouts/fourth-unveiling-01.png)
 
 The Eldritch Anatomy: Unveiling the Symphony of Medical Sorcery
 by ? - ?
@@ -16,7 +16,7 @@ In this theatre of the macabre, the ritual begins, and the shadows writhe with s
 
 The centerpiece, my table, gleams ominously beneath the sickly glow of ethereal candles. A pulsating magic circle, etched in blood and entrails of human, elf and dwarf, spans the circumference of the ritual space. To create this eldritch emblem, I arrange the viscera in a spiral pattern, an unholy dance of life and death, swirling like a maelstrom of forbidden knowledge.
 
-![circle-04](/assets/images/handouts/circle-04.png)
+![circle-04](/session-reports/assets/images/handouts/circle-04.png)
 
 Once the ritual space is prepared, invoke the essence of medical enlightenment with incantations that echo through the abyssal chambers of the Theatre. The air thickens with the scent of blood and viscera, and the very walls seem to exude an otherworldly aura, a testament to the eldritch forces converging upon us.
 

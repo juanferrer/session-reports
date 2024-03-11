@@ -5,7 +5,7 @@ number: 8
 date: 2019-07-27
 ---
 
-![Whispers from the Abyss: A Descent into Xoriat](/assets/images/handouts/whispers-from-the-abyss.png)
+![Whispers from the Abyss: A Descent into Xoriat](/session-reports/assets/images/handouts/whispers-from-the-abyss.png)
 
 Whispers from the Abyss: A Descent into Xoriat
 by Niara Nirth

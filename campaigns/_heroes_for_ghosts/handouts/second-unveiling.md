@@ -5,7 +5,7 @@ number: 2
 date: 2019-07-27
 ---
 
-![The Unseen Codex: Secrets of the Veil](/assets/images/handouts/second-unveiling-01.png)
+![The Unseen Codex: Secrets of the Veil](/session-reports/assets/images/handouts/second-unveiling-01.png)
 
 The Unseen Codex: Secrets of the Veil
 by Vaster - The Queen of Forbidden Knowledge 
@@ -32,7 +32,7 @@ Inscribed within the Unseen Codex are the variations and permutations of the Unb
 
 The execution of the Unbroken Circle marks the first step toward harnessing the profound magic of the Second Unveiling, and it is a step that should not be taken lightly. The pages within the Codex stand as your guide, but the responsibility to ensure the circle's perfection lies solely upon the practitioner, who wields the key to the Veil and the transformation of worlds.
 
-![circle-02](/assets/images/handouts/circle-02.png)
+![circle-02](/session-reports/assets/images/handouts/circle-02.png)
 
 Upon the completion of the Unbroken Circle, invoke the Second Unveiling with these sacred words, transcribed here for the deserving seeker:
 

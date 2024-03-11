@@ -5,7 +5,7 @@ number: 3
 date: 2019-07-27
 ---
 
-![Sacred Cosmos: The Nature of Divinity](/assets/images/handouts/third-unveiling-01.png)
+![Sacred Cosmos: The Nature of Divinity](/session-reports/assets/images/handouts/third-unveiling-01.png)
 
 Sacred Cosmos: The Nature of Divinity
 by ? - ?
@@ -18,7 +18,7 @@ Through the veils of reality, we manipulate the ether, crafting artifacts of uni
 
 The Sovereign Host and The Dark Six, deities ensconced in the hearts of many, along with the luminous beacon of the Church of the Silver Flame, stand on the precipice of oblivion, threatened not by war or heresy, but by a power that weaves the fabric of divinity anew. This arcane rite, whispered in forgotten tongues and shrouded in the mists of the ethereal, seeks not just to dethrone these ancient pantheons but to replace them with entities of our own inscrutable design. Entities that embody the unfathomable depths of the cosmos and the dark whispers that echo from beyond the veil. As the ritual concludes, the echoes of the old gods fade into the ether, their light dimmed by the rising dawn of a new divine order, one that promises to reshape the spiritual landscape of Eberron in our eldritch image, forever altering the course of faith and power across the realms.
 
-![circle-03](/assets/images/handouts/circle-03.png)
+![circle-03](/session-reports/assets/images/handouts/circle-03.png)
 
 The ritual, a sacred and arcane rite, stands as the cornerstone of divine creation, a step-by-step descent into the maelstrom of creation:
 

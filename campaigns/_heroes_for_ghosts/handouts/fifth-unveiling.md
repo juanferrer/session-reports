@@ -5,7 +5,7 @@ number: 5
 date: 2019-07-27
 ---
 
-![Quantum Arcana: Unravelling the Fifth Unveiling](/assets/images/handouts/fifth-unveiling-01.png)
+![Quantum Arcana: Unravelling the Fifth Unveiling](/session-reports/assets/images/handouts/fifth-unveiling-01.png)
 
 Quantum Arcana: Unravelling the Fifth Unveiling
 by ? - ?
@@ -16,7 +16,7 @@ The Ritual of Arcane Evolution is a complex and intricate sequence of incantatio
 
 The ritual requires a dedicated group of skilled and knowledgeable spellcasters working in tandem.
 
-![circle-05](/assets/images/handouts/circle-05.png)
+![circle-05](/session-reports/assets/images/handouts/circle-05.png)
 
 1. **Opening the Quantum Nexus**: The participants must synchronize their magical energies and create a stable, resonant harmonic frequency. This harmonic resonance is essential for accessing the quantum aspects of magic.
 2. **Quantum Imprint**: During this stage, the ritualists cast spells of observation, attempting to perceive the current state of magic within the universe. This involves gleaning insights into the balance, prevalence, and nature of magic.
