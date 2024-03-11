@@ -1,13 +1,14 @@
 ---
 title: "First Unveiling"
 type: handout
-number: 1
-date: 2019-07-27
+number: 5
+date: 2023-12-30
 ---
 
 ![Necromatic Revelation: The Unveiling of the Abyssal Resurgence](/session-reports/assets/images/handouts/first-unveiling-01.png)
 
 Necromatic Revelation: The Unveiling of the Abyssal Resurgence
+by Riman - The Frenzy
 
 In the shadowed annals of forbidden knowledge, behold the grimoire of Riman, the twisted architect of the abyssal resurgence. Within these ink-stained pages, the secrets of death magic and the potential for revivification are unveiled in all their unholy splendor. It is a dark dance, a macabre symphony that resonates through the very fabric of existence.
 

@@ -1,14 +1,14 @@
 ---
 title: "Fifth Unveiling"
 type: handout
-number: 5
-date: 2019-07-27
+number: 9
+date: 2024-02-10
 ---
 
 ![Quantum Arcana: Unravelling the Fifth Unveiling](/session-reports/assets/images/handouts/fifth-unveiling-01.png)
 
 Quantum Arcana: Unravelling the Fifth Unveiling
-by ? - ?
+by Xakin - The Paranoia
 
 The Ritual of Arcane Evolution, a phenomenon central to "Quantum Arcana: Unraveling The Fifth Unveiling," is an enigmatic and perilous procedure that promises to reshape the very fabric of magic within the universe. As with any powerful arcane endeavor, it is crucial to approach this ritual with extreme caution, for its outcomes are unpredictable and can have profound consequences on the existence of magic itself.
 

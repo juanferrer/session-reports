@@ -1,11 +1,14 @@
 ---
 title: "Seventh Unveiling"
 type: handout
-number: 7
+number: 11
 date: 2019-07-27
 ---
 
 ![The Seventh Unveiling: Heroes for Ghosts](/session-reports/assets/images/handouts/seventh-unveiling-01.png)
+
+The Seventh Unveiling: Heroes for Ghosts
+by Quillion - The Shatter of Realities
 
 In the labyrinthine corridors of time, where the whispers of fate intertwine with the echoes of eternity, there exists a cosmic symphony—an intricate tapestry woven from the threads of prophecy. For eons uncounted, The Draconic Prophecy has cast its shadow over this universe, a looming specter that binds the fate of all creation in chains of preordained destiny.
 

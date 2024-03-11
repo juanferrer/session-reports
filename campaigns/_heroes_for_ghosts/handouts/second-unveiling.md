@@ -1,8 +1,8 @@
 ---
 title: "Second Unveiling"
 type: handout
-number: 2
-date: 2019-07-27
+number: 6
+date: 2023-11-04
 ---
 
 ![The Unseen Codex: Secrets of the Veil](/session-reports/assets/images/handouts/second-unveiling-01.png)

@@ -1,8 +1,8 @@
 ---
 title: "Prophetic Epidiascope"
 type: handout
-number: 10
-date: 2019-07-27
+number: 1
+date: 2020-11-08
 ---
 
 ![Prophetic Epidiascope](/session-reports/assets/images/handouts/epidiascope.png)

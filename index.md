@@ -5,8 +5,10 @@
 layout: home
 ---
 
-{% for campaign in site.collections %}
+<!-- {% for campaign in site.collections %}
 {% if campaign.label != "posts" %}
 <a href="{{campaign.label}}">{{campaign.pretty_name}}</a><br/>
 {% endif %}
-{% endfor %}
+{% endfor %} -->
+
+<a href="heroes_for_ghosts">Heroes for Ghosts</a><br/>

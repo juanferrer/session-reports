@@ -4,8 +4,6 @@ title: Heroes for Ghosts
 permalink: /heroes_for_ghosts/
 ---
 
-Index for {{site.title}} campaign
-
 <p><a href="recaps">Recaps</a></p>
 <p><a href="handouts">Handouts</a></p>
 <p><a href="sessions">Session Notes</a></p>

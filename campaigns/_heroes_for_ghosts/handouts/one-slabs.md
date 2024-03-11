@@ -1,8 +1,8 @@
 ---
 title: "One Slabs"
 type: handout
-number: 11
-date: 2019-07-27
+number: 2
+date: 2021-04-24
 ---
 
 One Slabs: Cryptography of the Giants

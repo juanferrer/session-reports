@@ -1,7 +1,7 @@
 ---
 title: "Whispers from the Abyss"
 type: handout
-number: 8
+number: 3
 date: 2019-07-27
 ---
 

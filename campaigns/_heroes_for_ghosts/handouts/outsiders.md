@@ -1,7 +1,7 @@
 ---
 title: "Outsiders: A Comprehensive Study"
 type: handout
-number: 9
+number: 4
 date: 2019-07-27
 ---
 

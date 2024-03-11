@@ -1,7 +1,7 @@
 ---
 title: "Third Unveiling"
 type: handout
-number: 3
+number: 7
 date: 2019-07-27
 ---
 

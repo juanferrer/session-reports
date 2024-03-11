@@ -1,7 +1,7 @@
 ---
 title: "Sixth Unveiling"
 type: handout
-number: 6
+number: 10
 date: 2019-07-27
 ---
 

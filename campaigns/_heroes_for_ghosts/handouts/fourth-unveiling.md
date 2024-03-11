@@ -1,14 +1,14 @@
 ---
 title: "Fourth Unveiling"
 type: handout
-number: 4
-date: 2019-07-27
+number: 8
+date: 2023-12-16
 ---
 
 ![The Eldritch Anatomy: Unveiling the Symphony of Medical Sorcery](/session-reports/assets/images/handouts/fourth-unveiling-01.png)
 
 The Eldritch Anatomy: Unveiling the Symphony of Medical Sorcery
-by ? - ?
+by Xos - The Lord of Nightmares
 
 In the dimly lit recesses of my Theatre of Terrors, where the boundaries between the corporeal and the arcane blur like the vision of a madman, I, Xos, the architect of this spectacle, welcome you into the pulsating heart of medical insanity. Behold, for I shall narrate the ritual, the malevolent rite that unfurls the tendrils of understanding, probing the very essence of medical knowledge in all its twisted forms.
 
