@@ -23,7 +23,7 @@ date: 2020-11-08
 - With hands of blue monstrous secrets are unveiled by the operative of two the of the scribe of scries shall be the shield from retribution
 - The seekers will undo a great work of magic for love but conflict will be found
 - One long cursed for deceit may find peace at last though one will fall but vitriolic soothing will ensure nothing is set in stone
-- She who keeps the dragon of conveying may find four fowl champions who through magic old turn to anew will a griffin slew  And through the Doyeene's protection guide to devices of planar connection
+- She who keeps the dragon of conveying may find four fowl champions who through magic old turn to anew will a griffin slew And through the Doyeene's protection guide to devices of planar connection
 - When sixty and two lords of plain gather the first marked may stand for people who are not his own and the fall of a dragon will be felt from home to thrones
 - One who lost their name may find it once more when they seek the devices of a fallen empire
 - When gods play a game of dice the Great Diviner plays with an extra set and the manifold of possibilities is foretold
@@ -51,7 +51,7 @@ date: 2020-11-08
 
 > 1 - 3 - 4 - 1 - 6 - 8 - 3 - 5 - 9 - 1 - 11 - 6 - 12
 
-- When the indivisible is mirrored thirty and six futures are shown.  Between the twelfth blind man and an age of rest there lies a change in position and a truth untold.
+- When the indivisible is mirrored thirty and six futures are shown. Between the twelfth blind man and an age of rest there lies a change in position and a truth untold.
 
 > 5 - 13 - 11 - 7 - 2 - 3 - 3 - 10 - 9 - 4 - 6 - 11 - 1
 
