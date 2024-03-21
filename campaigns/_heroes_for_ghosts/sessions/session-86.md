@@ -3,8 +3,9 @@ title: "Session 86"
 type: session
 number: 86
 date: 2023-03-25
-
 ---
+
+{% include nav.html %}
 
 After disposing of the bodies we found ourselves a laundry cart and fit in as best as we could. At around 6:30, we set off towards the Red Ward. Down into the workshops and to processing through the courtyard.
 

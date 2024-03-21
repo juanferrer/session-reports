@@ -3,8 +3,9 @@ title: "Session 56"
 type: session
 number: 56
 date: 2021-12-04
-
 ---
+
+{% include nav.html %}
 
 Objectives for today:
 - Beat the other musician

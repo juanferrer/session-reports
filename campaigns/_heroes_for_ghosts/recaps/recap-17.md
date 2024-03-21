@@ -5,6 +5,8 @@ number: 17.5
 date: 2020-04-11
 ---
 
+{% include nav.html %}
+
 **Start Date**: 17th Nymm (late afternoon)
 
 With an enormous allosaurus bearing down on the party we began the session in initiative. Sas gathered up the mounts in an effort to get them to safety while Elora found herself unexpectedly on the frontline as one of the beasts leapt at her, knocking her to the ground and dealing a fearsome amount of damage. Adrik stepped up battleaxe in hand as more of the creatures emerged and started rushing the party. From a safe distance Able distracted two of the beasts with hypnotic pattern and RIP used bane before the group wailed on the two remaining dinos - dropping them in a couple of rounds. With a flock of quetzals arriving on the scene the party beat a hasty retreat and sneaked past the giant proto-birds, leaving them to their meal of freshly butchered allosaurus. 

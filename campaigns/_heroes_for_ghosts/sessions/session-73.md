@@ -3,8 +3,9 @@ title: "Session 73"
 type: session
 number: 73
 date: 2022-09-10
-
 ---
+
+{% include nav.html %}
 
 We went to talk to General Nordar. She is with her troops at the border of the Mournland. We know three colossus are near the area, so we will also be trying to find and destroy them.
 She wasn't keen on us destroying them just yet.

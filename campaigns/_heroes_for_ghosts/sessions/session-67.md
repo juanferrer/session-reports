@@ -3,10 +3,11 @@ title: "Session 67"
 type: session
 number: 67
 date: 2022-05-07
-
 ---
 
-We arrived at Olarune, an endless, empty desert. We need to find these “soft spots”, which are portals surrounded by trees. We will need to experiment with it to find a way through because they’re all different. We will need to mark the place somehow, because we will need to return to that place to come back to Olarune.
+{% include nav.html %}
+
+We arrived at Olarune, an endless, empty desert. We need to find these "soft spots", which are portals surrounded by trees. We will need to experiment with it to find a way through because they’re all different. We will need to mark the place somehow, because we will need to return to that place to come back to Olarune.
 
 While looking for the soft spots, Abel started fiddling with her mask and managed to discover another feature, which helps her find manifest zones and portals. Will be great for finding our way back.
 

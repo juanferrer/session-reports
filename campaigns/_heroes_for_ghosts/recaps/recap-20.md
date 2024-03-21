@@ -5,28 +5,30 @@ number: 20.5
 date: 2020-05-23
 ---
 
+{% include nav.html %}
+
 **Start Date**: 23rd Nymm (just after midnight)
- 
+
 With the T-Rex defeated and fires extinguished the party were keen to get some much needed rest. But Elora insisted on them dealing with the corpse, for fear of it attracting other predators. The 20,000lbs of meat proved to be impossible to move. Mr Copperkettle was put to work butchering it with his integrated chef's knives.
- 
+
 Elora and Meriele finally managed to catch up. Meriele spoke about her wish to stay and help the refugees. Elora waived tales of the parties adventures and exploits - and some gossip about Aunt Shava's affair with Greenbottle.
- 
+
 Sas returned with a local chief (Lath Sharbul). The elderly halfling clearly had a major dragonmark on his face and he explained he was formally in House Ghallanda, though he was now retired. After casting Private Sancus he asked the party about what had happened at Lost Flats. Troubled by what had been done to the refugees he offered sanctuary. He explained he had been at Gatherhold for the Conclave where the laths had granted Jorasco land on the plains to settle the refugees. Unable to unilaterally overrule his peers he informed the party he would request a gathering of the Conclave in three weeks. He asked the party to attend to give evidence so they might decide what to do with Jorasco.
- 
+
 A sending was received from Toquill: "You have quite a pickle with Jorasco. Oh I'd like a pickle! Anyway… Help on its way. Most powerful weapon. From the west next dawn"
- 
+
 Final preparations were made to ambush the expected Deneith mercenaries. The Jorasco guards and magewrights were persuaded to join the parties side in exchange for their freedom. And a final rest was taken with RIP taking watch all through the night. As dawn broke on the morning of the 24th an airship was spotted approaching from the north. Once over the town more than a dozen figures jumped from it… activating featherfall devices as they neared the ground.
- 
+
 The preparations and traps heavily swung the ensuing fight in the parties favour. Most of the mercenaries barely had time to show off their fancy weapons before succumbing to the overwhelming force brought against them. Elora commanded a platoon of archers from the rooftops while letting off lightning bolts. RIP buffed Adrik with a warding bond while tossing out sacred flames. Meriele got in a bit out of her depth but Adrik charged in… possibly to aid her... or possibly to take the magical axe that had instantly caught his attention. The dwarf saved Meriele and cut down the knight with his own weapon. Several squads fell to the spike filled pit trap and landmines laid around the site. Able patiently waited for the leader to get in range of one of the mines before triggering it with her mage hand. Clinging onto life the warlock attempted one last spell but was shut down with a counter from Elora. With one enemy remaining RIP briefly considered taking a prisoner… but was surprised by his own strength as the blow from his mace collapsed the man's head.
- 
+
 The party had barely finished looting the powerful weapons from fallen mercenary commanders and were considering boarding the airship when a cloud of dust was seen approaching from the west. Along with a whimpering scream. A poorly saddled Fasteth trotted into the ruined village with a gnome hanging beneath. After the mount was calmed and the gnome cut free he introduced himself as a Panadon Boondiggles from Scry News. He explained Scry (a house Sivis subsidiary) had invented a method of capturing scenes with scry-cameras and transmitting them to scry-boxes in people's homes throughout Khorvaire.
- 
+
 Deeply suspicious of the newcomer they asked Pan if he had been sent by Toquill but the halfling claimed to not know who that was. Asked how he came to be there he explained he'd been sent to the Plains to make a "Bloody doco on the nomads''. He had received a crying doll with a note telling him to find its owner, which led him to uncover the plot to kill Kelben and Folly Lingenhall. He had managed to warn Folly and thus foil the plot but when he tried to publish the story he got shut down by his editor and sent to the Plains, in his mind as punishment.
- 
+
 Keen to blow the lid off this career making story he eventually persuaded the party to do an interview on camera. Able was put forward, with the condition she disguised her voice and her face be obscured (with a sack). Able's first appearance on SV (Scry Vision) went better than expected - as she told a tale of half-truths... the party were travellers who just stumbled on what Jorasco was doing. Drugging and enslaving helpless refugees. That they had been attacked by Jorasco and later by Deneith mercenaries sent to clean up evidence of wrongdoing. With the interview over her only regret was not wearing her fancy blue dress.
- 
+
 Panadon was led off to interview Dr Calla d'Jorasco (transcript below).
- 
+
 **End Date**: 24th Nymm (early morning)
 
 **Loot**: +2 magical crossbow with tether ability for Elora, +1 magical throwing battle-axe with extra thunder damage for Adrik, +1 magical mace with three extra prepared spells for RIP, a Siberys Dragon Shard and five remaining arcane charges.

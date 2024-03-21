@@ -5,11 +5,13 @@ number: 10
 date: 2019-12-07
 ---
 
+{% include nav.html %}
+
 Right before we went in we talked to a halfling. He said there are many guards in the castle.
 
-“There’s tunnels through the barracks. Room on the left.”
+"There’s tunnels through the barracks. Room on the left."
 
-“Mahari” is the third witch?
+"Mahari" is the third witch?
 
 When she detonates the CPAD no one should be within 80 feet. If she dies, we are to look for Lily Quad at the Gathering Stones and tell her what happened.
 

@@ -3,8 +3,9 @@ title: "Session 93"
 type: session
 number: 93
 date: 2023-07-15
-
 ---
+
+{% include nav.html %}
 
 After a long wait, the butler came back inviting us into the kitchen, but we stopped in the dining room, as they had guests there. Shava was nowhere to be seen. Elora ran all around the house calling for her mother, but she couldn't find her. Eventually, she found her in the kitchen, where the butler had been. We played along for a bit, but I think she knows we know… After the cake, she ran off to the kitchen, where Elora followed her. Elora used Dominate Monster on Coteh and asked her to dismiss the guests so they could have some time alone.
 After they left, Elora ordered her to reveal her true likeness, and we saw her in all her hideousness. She also told her not to use her mother's image. And then the combat started
@@ -31,7 +32,7 @@ Sachem explained all the work they had been doing and how they had reached out t
 Amaron, Able's brother, invited us for dinner, although RIP cooked, so I guess we invited them for dinner. Sylaris (girlfriend/fiancée) told us about braindaddy. She talked about the past, when Githyanki lived on Eberron. She mentioned a greater conscience (about 20k years ago, after the giants).
 The world was greatly connected, they would feel other consciences around them (due to their telepathy), the thoughts of all living things.
 
-But they changed it all  (who?). Githen ("our Eberron") was changed. Their stories say that when the cataclysm happened, very few survived. Only those in the Astral Sea did, and they were not able to go back to Eberron (due to the ring of Syberis). They escaped to the moons.
+But they changed it all (who?). Githen ("our Eberron") was changed. Their stories say that when the cataclysm happened, very few survived. Only those in the Astral Sea did, and they were not able to go back to Eberron (due to the ring of Syberis). They escaped to the moons.
 Illithyds are githzerai that were changed by the madness of Xoriat. Then the war started.
 Three of the Daelkyr travelled to Eberron. The other four were captured in crystal prisons.
 She warns that they changed Eberron once. They can do it again. And we may be the ones cast out this time. One (two, actually) are roaming the land. We need to stop them from changing Eberron.

@@ -5,6 +5,8 @@ number: 6.5
 date: 2019-10-12
 ---
 
+{% include nav.html %}
+
 **Start Date**: 14th Dravago (nearly midnight)
 
 The second day's sailing passed without much incident. Elora interrogated the captain about his lost lover and the crew took part in a gun drill - during which the Party learned how to operate a cannon. 

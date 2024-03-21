@@ -5,6 +5,8 @@ number: 83.5
 date: 2023-02-11
 ---
 
+{% include nav.html %}
+
 **Start Date**: 5th Olarune (Early morning)
 
 While travelling to the Pirate Fest, Abel and I started working on a design to apply poison to my axe during the battle. It's too slow to do it when the battle starts!

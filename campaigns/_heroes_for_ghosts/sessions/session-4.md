@@ -5,6 +5,8 @@ number: 4
 date: 2019-09-14
 ---
 
+{% include nav.html %}
+
 We got in Dunroy’s dairy farm and he wanted to make us leave. We got into a fight when I said we would call the authorities after he attempted to make us leave when we found a dead body.
 He escaped leaving a human skin bag with magical properties. We don’t know what it’s for.
 On his desk we find:
@@ -18,7 +20,9 @@ Toquill's guards prevented us from acquiring the device. It is more important th
 Your sister in arms,
 
 > Coteh
-> The note was being written by Dunroy. He may be Coteh. Or maybe they’re shapeshifters and they took their shape. It mentions a Groshk, a city in Darguun (between Marguul Pass and The Seven Caves
+>
+> The note was being written by Dunroy. He may be Coteh. Or maybe they’re shapeshifters and they took their shape. It mentions a Groshk, a city in Darguun (between Marguul Pass and The Seven Caves)
+>
 > Toquill suggest we go and find if there are any other CPADs. We should go to Trolanport, Zilargo to find the original engineer and ask them. He also wants us to get an animal and cart to transport the parts of the CPAD, probably to destroy them. We will also get new guards in Sword and Staffing. Finally, we will help him dispose of the device.
 
 We found these boars to take us:

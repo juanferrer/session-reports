@@ -3,8 +3,9 @@ title: "Session 79"
 type: session
 number: 79
 date: 2022-12-17
-
 ---
+
+{% include nav.html %}
 
 The Prince was shocked that the Daughters attacked them. The Daughters are strong arch-fey.
 We decided to kill Mahari and have RIP harvest her soul with Severance. After that we're going to the plane of fire.

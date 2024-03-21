@@ -31,10 +31,10 @@ C becomes H
 Z becomes E
 
 So the message
-> "The Archmage only knows cantrips"
+> *The Archmage only knows cantrips*
 
 Becomes
-> "Ymj Fwhmrflj tsqd pstbx hfsywnux"
+> *Ymj Fwhmrflj tsqd pstbx hfsywnux*
 
 ## One-Slab
 
@@ -42,7 +42,9 @@ With One Slab each letter in the message has its own shift that is determined by
 
 This is an example of a key translated from runic into the common alphabet:
 
-> KTLVB DBJGV PIBSU ACCFD KSWRD ITRZA RNZFT OABNB KDPTC CQLYO
+```
+KTLVB DBJGV PIBSU ACCFD KSWRD ITRZA RNZFT OABNB KDPTC CQLYO
+```
 
 Cul'Sir One Slab keys seem to have always been 50 runes long, meaning each message was limited to a maximum of 50 runes, for the key must be at least as long as the message. They are usually written in blocks of 5 but this is just to make it easier to keep track of your position in the key and the spaces are not part of the encoding. Punctuation and numerals are not encoded. If numbers needed to be encoded they probably wrote them out as words rather than numerals.
 
@@ -179,7 +181,9 @@ If the number is negative when decoding we need to do something different; simpl
 
 With the Trust-Shift a five letter word can only be encoded with one of 26 possible keys; it would be trivial to check them all. But with One-Slab the number of keys is 26^n, where n is the number of letters encoded. A five letter word has nearly 12 million keys. Most of those 12 million keys will produce gibberish but some of them will produce words, every single possible five letter word in fact! And there is no way to know which of those words was the original. Not without the key!
 
-> S ATY UDMJTYGW ISN UPFJU CWWK G 25 JNK GE ZF STH GTVCJN WD WGEHJNH
+```
+S ATY UDMJTYGW ISN UPFJU CWWK G 25 JNK GE ZF STH GTVCJN WD WGEHJNH
+```
 
 ## Try it Yourself!
 

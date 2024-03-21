@@ -3,8 +3,9 @@ title: "Session 36"
 type: session
 number: 36
 date: 2021-01-03
-
 ---
+
+{% include nav.html %}
 
 Are we keeping the telescope? Too big.
 

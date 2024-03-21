@@ -3,8 +3,9 @@ title: "Session 72"
 type: session
 number: 72
 date: 2022-08-27
-
 ---
+
+{% include nav.html %}
 
 So, we're in a tavern they made just next to the door of the cubic gate. Silaris is the name of the Githzerai prisoner we found.
 Ameron was keeping the C-Pad. He was tasked to destroy a Cyrean weapon, a colossus. His team was caught during the assault and almost didn't make it out. Apparently they were expecting them. One of the team was an informant for Cyrean intelligence. They noticed one of the team had left. An elf.

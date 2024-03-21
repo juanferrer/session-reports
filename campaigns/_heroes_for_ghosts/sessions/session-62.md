@@ -3,8 +3,9 @@ title: "Session 62"
 type: session
 number: 62
 date: 2022-02-26
-
 ---
+
+{% include nav.html %}
 
 She surrendered.
 
@@ -32,14 +33,14 @@ She will come with us posing as Leleina, a messenger from the Brelish empire.
 
 Elora met with her mother.
 
-I dropped by the offices of house Orien to send the rapier to Meriele with a note saying “This will protect you when I cannot”. I had shield cast on it, so it will probably protect her in some way.
+I dropped by the offices of house Orien to send the rapier to Meriele with a note saying "This will protect you when I cannot". I had shield cast on it, so it will probably protect her in some way.
 
 Abel got some leads on the lady in the locket she took from a fallen soldier.
 
 As we left Wroat with Control/Leleina, we passed Galethspyre, a 600m needle of rock with a sprawling city around it.
-We also passed the Graywall Mountains. We saw “the monstrous creatures” in the city: Trolls, minotaurs, gnolls, bear-troll…
+We also passed the Graywall Mountains. We saw "the monstrous creatures" in the city: Trolls, minotaurs, gnolls, bear-troll…
 
-We set up a password with Control: “What a lovely necklace” - “Eye, eye!”
+We set up a password with Control: "What a lovely necklace" - "Eye, eye!"
 
 The Daughters appear heavily in popular stories. Sora Menya only eats meat. Eat your greens to keep her away. Sora Teresa will come grab you in the night if you don’t obey your elders.
 

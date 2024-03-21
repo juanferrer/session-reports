@@ -3,20 +3,28 @@ title: "Session 99"
 type: session
 number: 99
 date: 2023-11-18
-
 ---
+
+{% include nav.html %}
 
 After recovering our breath, we carried on with the "interviews". We found Elaine. She was making something out of clay. She said it was Zachim. She said we will need to come back when the sculpture is finished.
 We found the one that needed winding up and met Mara. She was able to disappear in the shadows. Literally. Lucienne was in the next room, much to our surprise. She shared some details about the first unveilings. It has to be performed in the slaughterhouse. The door must be opened with the offering, but then put together inside. She recited the following poem:
 
 > *Upon the butchers' cold domain she lay,*
+>
 > *Buttercup, torn, where shadows prey.*
+>
 > *Sinister stitches, needle's dark embrace,*
+>
 > *The portal opens, Rimmin's chilling grace.*
-> **
+>
+>
 > *Buttercup's eyes, lifeless, yet alive,*
+>
 > *On the butchers' table, shadows thrive.*
+>
 > *Stitch swiftly 'fore the creatures bite,*
+>
 > *In Rimmin's realm, eternal night.*
 
 She said Buttercup is not whole. She's currently in the butcher's table. Abel thinks she's a cow.

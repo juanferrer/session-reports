@@ -5,6 +5,8 @@ number: 6
 date: 2019-10-12
 ---
 
+{% include nav.html %}
+
 We’re doing some practising with the cannons, just in case anything happens.
 
 - Clear: Unchain and pull back

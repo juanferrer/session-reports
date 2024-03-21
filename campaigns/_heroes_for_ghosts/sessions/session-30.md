@@ -3,8 +3,9 @@ title: "Session 30"
 type: session
 number: 30
 date: 2020-10-10
-
 ---
+
+{% include nav.html %}
 
 The tree mentioned a creature with 6 legs? Probably a giant ant.
 I grabbed 5 apples from Splitsprout, I want to plant them somewhere outside the Mournland and tell them their father’s name.
@@ -18,11 +19,11 @@ Also, many things we found. These numbers were at the back of the letter:
 4 - 5 - 7 - 7 - 9 - 10 - 11 - 13 - 1 - 7 - 6 - 2 - 12
 ```
 
-Also, “the original path”?
-Toquill says something about being on “the Lamb”, “Emily is quite a foxhound” and finding the “Prophetic Epidiascope”.
+Also, "the original path"?
+Toquill says something about being on "the Lamb", "Emily is quite a foxhound" and finding the "Prophetic Epidiascope".
 Also, these are the books I found for smithing were:
-“Heat Twice, Hammer Once: Methods for Careful Blacksmithing”
-“Art of the Forge Ornate: Smithing Techniques for Swords and Daggers”
+"Heat Twice, Hammer Once: Methods for Careful Blacksmithing"
+"Art of the Forge Ornate: Smithing Techniques for Swords and Daggers"
 
 Steps for making the Meriele’s sword:
 - Takah: Selecting of the Materials (steel)

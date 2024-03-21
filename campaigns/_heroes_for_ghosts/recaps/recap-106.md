@@ -5,7 +5,9 @@ number: 106.5
 date: 2024-02-24
 ---
 
-**Start Date**: 4th Dravago (9am)  - Astral Date 131454
+{% include nav.html %}
+
+**Start Date**: 4th Dravago (9am) - Astral Date 131454
 
 Returning to Xoriat, Elora manages to sneak into Elana's room without immediately triggering a fight. Elana gives her a clay figure of Xakin with two female figures lurking behind. On examining the statue, Elora feels a sudden compulsion to go to the treatment room. Convenient, since that's where we want to go anyway. As she passes the staff room, the elder brain pokes its… brain?... out the door. A fight nearly starts, but Elora manages to convince everyone that we were going to get treatment. Even after RIP and BIP hit one of the orderlies with Toll the Dead. That girl can talk her way out of (or into!) anything.
 
@@ -15,4 +17,4 @@ RIP promptly banished the time-sucking creature, and we managed to dispose of th
 
 From here we head to the Astral Sea to check in with Ammeron, then on to Talenta Plains, and for one lovely evening on the sunlight plains we forget our troubles, our enemies, and saving the world, and just enjoy the company of friends and family.
 
-**End Date**: 7th Dravago (8pm)  - Astral Date 131454
+**End Date**: 7th Dravago (8pm) - Astral Date 131454

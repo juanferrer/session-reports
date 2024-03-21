@@ -3,8 +3,9 @@ title: "Session 95"
 type: session
 number: 95
 date: 2023-09-09
-
 ---
+
+{% include nav.html %}
 
 It was a hard fight. Four small brains, four of the tentacle guys and Elora's dad (as a brain). We managed to deal with the minions pretty quickly, but the brain was tough. He was trying to free Riman, and it did it, but Elora wished for Riman not to have been freed. We saw time going back to the moment before he was freed. That was freaky… As he was about to try, we managed to break open the casing protecting it and disconnected it from the machine it was plugged into. RIP tried to absorb the soul with Severance, but was unable to, as there was no soul to absorb. Very strange…
 Zephyrath said that was very unusual for a creature of that type. He said the Outsiders are able to use powerful magic to re-shape reality. It´s possible they changed Himo (Elora's dad) into an elder brain. It's possible he's been returned to Xoriat. We might encounter him again.
@@ -26,7 +27,7 @@ We arrived at the Crab. Sora Teresa shared some news:
 > *As investigators dig deeper into the mysteries surrounding the lightning rail disaster and Queen Dannel's vanishing act, the kingdom holds its collective breath, hoping for answers that will unravel the web of conspiracy or confirm our darkest fears.*
 - Stormreach Sentinel:
 > **TIME BENDING TREACHERY: Did Xen'drik's Ancient Magics Result in Queen Dannel's Vanishing Act?**
-> *In a realm where the past and present intertwine, a chilling theory is gaining traction - one that posits that Xen'drik, with its mastery of ancient magics, may have played a central role in the lightning rail disaster and the disappearance of  Queen Dannel.*
+> *In a realm where the past and present intertwine, a chilling theory is gaining traction - one that posits that Xen'drik, with its mastery of ancient magics, may have played a central role in the lightning rail disaster and the disappearance of Queen Dannel.*
 > *This audacious theory begins with the premise that Xen'drik's arcane practitioners had uncovered secrets long lost to the annals of history. Among these secrets, some speculate, is the power to manipulate time itself. As unbelievable as it may sound, whispers suggest that these ancient magics may have been harnessed to orchestrate the catastrophic lightning rail crash.*
 > *But what connects this arcane subterfuge to the queen's vanishing act? The tale unfolds further, with a startling twist. It is rumoured that Queen Dannel, upon her return from the Mournland, delved into the mysteries of the disaster. She may have stumbled upon evidence pointing to drow involvement.*
 > *Fearing exposure, it is theorized that the arcane drow masters of utilized their mastery of time to whisk Queen Dannel away from the prying eyes of investigators and protect their secrets. The queen's disappearance became not only a matter of her safety but also a desperate bid to safeguard the arcane knowledge that could change the fate of nations.*

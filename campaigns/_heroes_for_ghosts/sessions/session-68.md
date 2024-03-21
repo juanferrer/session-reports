@@ -3,10 +3,11 @@ title: "Session 68"
 type: session
 number: 68
 date: 2022-05-21
-
 ---
 
-This blonde guy, long fingers and completely white eyes just showed up and stopped the Tikka. I couldn’t hear much of what he said, but he took Elora and told us to meet her at the top of his “fun tower”. We will fight the Tikka afterwards.
+{% include nav.html %}
+
+This blonde guy, long fingers and completely white eyes just showed up and stopped the Tikka. I couldn’t hear much of what he said, but he took Elora and told us to meet her at the top of his "fun tower". We will fight the Tikka afterwards.
 
 We stepped through the door and found ourselves in this small room with a metallic arm holding a blue gem. There were pictograms carved into the sides of the pillar. There were a few lamps that had a hand sign under them. After like 20 minutes of trying different things, we touched 4 hands and the door opened. Huh…
 
@@ -17,7 +18,7 @@ We found three statues around a brazier. They appeared ready for battle.
 
 We pulled an Indiana Jones and swapped a piece of glass from a window we smashed before with the blue gem. Then placed the gem on the hand of the three-eyed statue. It seemed to activate a portal, but not fully. We moved the weapons around so that the horns matched the pointiness of the weapon. And then the portal opened. Yay!
 
-The portal led us into a lava lake. Felt like the plane of fire. Awfully hot. There was a word on the floor. TNEMHSIRUON was written on the floor. A horse of fire appeared and came running to us, but was stopped by an invisible barrier. Abel screamed “Nourishment”, and RIP cast Create Food and Water. We started throwing food through the barrier while the horse was eating it. The lava started cooling unnaturally quickly. Trees started springing up and the horse transformed into a unicorn. Then a portal appeared and we went through.
+The portal led us into a lava lake. Felt like the plane of fire. Awfully hot. There was a word on the floor. TNEMHSIRUON was written on the floor. A horse of fire appeared and came running to us, but was stopped by an invisible barrier. Abel screamed "Nourishment", and RIP cast Create Food and Water. We started throwing food through the barrier while the horse was eating it. The lava started cooling unnaturally quickly. Trees started springing up and the horse transformed into a unicorn. Then a portal appeared and we went through.
 
 We arrived at an icy cave. We were in an elevated area and saw some pillars with pipes coming out of them. There was an ice cube in the centre of the cave. RIP found a button and after pressing it, another cube appeared in the middle of the room, causing the cube at the centre to slide away.
 

@@ -3,8 +3,9 @@ title: "Session 44"
 type: session
 number: 44
 date: 2021-05-22
-
 ---
+
+{% include nav.html %}
 
 We got a Scry Phone One from Sivis. We immediately tuned it to Scry Sports to watch the first team match.
 

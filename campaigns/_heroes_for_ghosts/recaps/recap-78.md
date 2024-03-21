@@ -5,6 +5,8 @@ number: 78.5
 date: 2022-12-03
 ---
 
+{% include nav.html %}
+
 **Start Date**: 25th Zarantry (Morning)
 
 As we exit the portal, the castle is under attack. A group of githyanki and mindflayers drop in. We take care of them, and head into the throne room. Shan Syaen says they have things under control there, but orders us outside to help his people.

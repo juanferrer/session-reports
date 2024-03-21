@@ -3,8 +3,9 @@ title: "Session 49"
 type: session
 number: 49
 date: 2021-07-31
-
 ---
+
+{% include nav.html %}
 
 The female was Salomon, one of the witches.
 They are taking my parents to Amber. Got a plan.
@@ -22,5 +23,5 @@ We had some trippy experience with colours and incredible
 
 We ended up activating the machine and, after going through the tunnels, encountered some stone giants on the exit leading to Henge/Twins.
 
-“Fina Avichevaina” is “awaken” in giant. We’re gonna play baby giants coming from the “real world” (as they believe they live in a dream and they will awaken when they die). We will try to tell them the awakening is happening and they can awaken themselves when they’re ready. We crit on the “Fina Avichevaina” screaming!
+"Fina Avichevaina" is "awaken" in giant. We’re gonna play baby giants coming from the "real world" (as they believe they live in a dream and they will awaken when they die). We will try to tell them the awakening is happening and they can awaken themselves when they’re ready. We crit on the "Fina Avichevaina" screaming!
 The plan kind of worked. They didn’t kill themselves, but they started fighting with each other and they were very easy to finish off. Very successful planning, I think.

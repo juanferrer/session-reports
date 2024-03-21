@@ -3,8 +3,9 @@ title: "Session 65"
 type: session
 number: 65
 date: 2022-04-09
-
 ---
+
+{% include nav.html %}
 
 Well, I’m very confused. A lot has happened and we seem to be around a lot of strange creatures.
 I finished clearing the engine room and went to look for the rest of the party. They killed some sort of giant pink mouse with several tongues. I think they found the sensors they were looking for. On the way out, we encountered some green, spongy creature that attacked us. Apparently Able had eaten some on the way in. I should not leave them alone, they get reckless. RIP blighted and the thing screamed as it withered into nothingness.
@@ -25,7 +26,7 @@ Pan used the cubic gate to drop the previous footage and get some blanks for the
 
 As we were preparing for launch I sat at the tactical console, ready to command the weapons on the ship. RIP was on the other one, which I can’t quite remember what it was for. We left the asteroid and towards the refuelling station, and then towards Sancus Station.
 
-Apparently the refuelling station is where Bebe’s crew got infected. He said only 4 engineers are there, so they probably are dead now. Also, the infecting “form” of these creatures is different from the one that “hatches” (macabre, but I can’t find a better word). Bebe called them “big teeth”. It’s gonna be fun. As we arrived, Bebe confirmed the worst case scenario: 4 big-teeth and however many infecting forms as there were at the start.
+Apparently the refuelling station is where Bebe’s crew got infected. He said only 4 engineers are there, so they probably are dead now. Also, the infecting "form" of these creatures is different from the one that "hatches" (macabre, but I can’t find a better word). Bebe called them "big teeth". It’s gonna be fun. As we arrived, Bebe confirmed the worst case scenario: 4 big-teeth and however many infecting forms as there were at the start.
 
 Here’s the plan:
 - Check air is pressurised

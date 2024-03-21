@@ -5,11 +5,13 @@ number: 44.5
 date: 2021-05-22
 ---
 
+{% include nav.html %}
+
 **Start Date**: 10th Barrakas (Morning)
- 
+
 Transcript from Fight of the Day on Scry Sports One.
 With Lodon Garrick & Raswor Omantrowl
- 
+
 >
 > **Lodon**: Well, Ras, it's quite a day at the Red Ring here in Stromreach.
 >
@@ -164,11 +166,11 @@ With Lodon Garrick & Raswor Omantrowl
 > **R**: And I've been Raswor Omantrowl
 >
 > **L**: From Scry Sports Fight of the Day - Goodnight.
- 
- 
+
+
 **End Date**: 10th Barrakas (Evening)
 
 **Loot**: Scryphone One & Charm Of Revivification
- 
+
 **Viewers**:
 - 10th Barraka - Red Ring 24,171

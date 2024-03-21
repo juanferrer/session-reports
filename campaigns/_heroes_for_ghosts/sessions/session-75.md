@@ -3,8 +3,9 @@ title: "Session 75"
 type: session
 number: 75
 date: 2022-10-08
-
 ---
+
+{% include nav.html %}
 
 We got a call from Zorlan d'Cannith. The good one, though. He said the general has taken his forces south of the Cyre river. They have managed to restore control to two of the colossus (we destroyed one).
 Nordar also called us. She's too cool… The Darguun army has secured two of the colossus. We gave her the location of the other three, she will retrieve those, activate them and meet us up north to fight the other colossus.

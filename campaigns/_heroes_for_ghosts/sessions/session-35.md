@@ -3,10 +3,11 @@ title: "Session 35"
 type: session
 number: 35
 date: 2020-12-19
-
 ---
 
-Elora tried to scry on Toquill. I think he failed willingly. We saw him washing some dishes in what looked like Dai’teag’s kitchen. He turned around, looked directly into the eye and said “should I make supper or breakfast?”. RIP used sending to say “we’ll be there for supper”.
+{% include nav.html %}
+
+Elora tried to scry on Toquill. I think he failed willingly. We saw him washing some dishes in what looked like Dai’teag’s kitchen. He turned around, looked directly into the eye and said "should I make supper or breakfast?". RIP used sending to say "we’ll be there for supper".
 
 On the way back to metrol we felt some giant crabs climb under the train. We fought them off and managed to kill them. Shortly after, a ghost train (like the echoes we saw before) goes through us. Some balls of lightning appeared and started accelerating the train. We almost died trying to kill them.
 

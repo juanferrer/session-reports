@@ -3,8 +3,9 @@ title: "Session 94"
 type: session
 number: 94
 date: 2023-08-26
-
 ---
+
+{% include nav.html %}
 
 The Demon wastes is not really a country. Effectively, the Icehorn Mountains is the edge of the world. Beyond there is a wasteland full of horrors and some tribal barbarians.
 We decided to just call Nordaar and see if she's able to intercept Salmon before she reaches the Ruins of Pelmarane.

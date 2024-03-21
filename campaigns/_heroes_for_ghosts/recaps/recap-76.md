@@ -5,7 +5,9 @@ number: 76.5
 date: 2022-11-05
 ---
 
-**Start Date**:  21st Zarantry (Late Evening)
+{% include nav.html %}
+
+**Start Date**: 21st Zarantry (Late Evening)
 
 NorrDog reacted a little strangely when we asked it to find Arkus, pointing toward Metrol but then doing a sort of doggy shrug. As we travel to Metrol the "Queen" calls us and tries to convince us to stop Nordar from destroying the remaining colossus. Also tells us that there is now a 2k per head bounty on us in Karnath. Wups.
 

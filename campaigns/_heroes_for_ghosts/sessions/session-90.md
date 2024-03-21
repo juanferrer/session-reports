@@ -3,8 +3,9 @@ title: "Session 90"
 type: session
 number: 90
 date: 2023-05-20
-
 ---
+
+{% include nav.html %}
 
 Guards made breakfast. Delicious dwarven delicatessen. RIP also made a lovely second breakfast, which we will be having down in Deep Ward.
 Their file was not correct, by the way. Dude started to cast a spell, but Elora countered it. RIP pushed into the room with antilife shell. Abel used arcane gate to spawn a portal behind the creature and another one on top of the hold monster field. Then Elora used fear, and the creature fell right into the portal. Yay, we caught one!

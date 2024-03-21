@@ -3,8 +3,9 @@ title: "Session 48"
 type: session
 number: 48
 date: 2021-07-17
-
 ---
+
+{% include nav.html %}
 
 Abel decoded the words on the cubic gate, which allowed us to open one of the portals. It will take us to some ruined platform, near Stormbridge, according to Varhoe.
 Abel also licked the black pillar on the side of the main room. It was made of obsidian and, after casting detect magic on it, she discerned it was related to abjuration and conjuration.

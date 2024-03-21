@@ -3,13 +3,14 @@ title: "Session 69"
 type: session
 number: 69
 date: 2022-06-04
-
 ---
+
+{% include nav.html %}
 
 As soon as we were lighting the last candle, we appeared back in the Tikka’s lair.
 Fight started getting difficult. Abel invoked Hasanas’ contract, for the second part. Is her soul now his? Oh, no… 4 tannarukks and an orthon appeared. 4 monsters from Hasanas, I assume. I was deafened during this, so I was very confused why they were attacking the Tikka.
 
-When we killed the Tikka, the blonde guy showed up again. He introduced himself as Quellin. He told us “the others” were coming, so we put the tikka meat in the bags and were about to leave when one of these demons found some items in the nest in the middle.
+When we killed the Tikka, the blonde guy showed up again. He introduced himself as Quellin. He told us "the others" were coming, so we put the tikka meat in the bags and were about to leave when one of these demons found some items in the nest in the middle.
 
 He said the Sisters are some of the people working for him. I think he’s one of the Lords of Dust.
 

@@ -3,8 +3,9 @@ title: "Session 74"
 type: session
 number: 74
 date: 2022-09-24
-
 ---
+
+{% include nav.html %}
 
 We followed NorrDog for a few hours taking shifts to give directions to the drivers. We passed a few cities on the way, silent as usual. Continued going north, saw Waekelake and the canyon around it. Massive rift. Although the lake was glowing?! The entire canyon is glowing purple. No vegetation around it. Very, very strange.
 

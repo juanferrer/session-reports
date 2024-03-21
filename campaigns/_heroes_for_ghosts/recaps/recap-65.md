@@ -5,6 +5,8 @@ number: 65.5
 date: 2022-04-09
 ---
 
+{% include nav.html %}
+
 **Start Date**: 20th Rhaan --- ASTRAL-DAY 1 (Early Morning)
 
 Extract from Adrik’s diary:
@@ -27,7 +29,7 @@ As we were preparing for launch I sat at the tactical console, ready to command 
 
 We left the asteroid and towards the refuelling station, and then towards Sanctum Station.
 
-Apparently the refuelling station is where Bebe’s crew got infected. He said only 4 engineers are there, so they probably are dead now. Also, the infecting “form” of these creatures is different from the one that “hatches” (macabre, but I can’t find a better word). Bebe called them “big teeth”. It’s gonna be fun. As we arrived, Bebe confirmed the worst case scenario: 4 big-teeth and however many infecting forms as there were at the start.
+Apparently the refuelling station is where Bebe’s crew got infected. He said only 4 engineers are there, so they probably are dead now. Also, the infecting "form" of these creatures is different from the one that "hatches" (macabre, but I can’t find a better word). Bebe called them "big teeth". It’s gonna be fun. As we arrived, Bebe confirmed the worst case scenario: 4 big-teeth and however many infecting forms as there were at the start.
 
 Here’s the plan:
 
@@ -43,7 +45,7 @@ After some tense moments holding our breath, we found the power and life support
 
 Additional note from Abel:
 
-Along with the sensors we found a “couple of other things”, which we have not really had time to check what they are yet. Also, we are headed for Sanctum, as this is supposedly where the gnomish refugees ended up, hopefully my brother is there.
+Along with the sensors we found a "couple of other things", which we have not really had time to check what they are yet. Also, we are headed for Sanctum, as this is supposedly where the gnomish refugees ended up, hopefully my brother is there.
 
 **End Date**: 7th Sypheros --- ASTRAL-DAY 2 (Evening)
 

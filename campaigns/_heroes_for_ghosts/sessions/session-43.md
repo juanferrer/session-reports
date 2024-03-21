@@ -3,8 +3,9 @@ title: "Session 43"
 type: session
 number: 43
 date: 2021-05-08
-
 ---
+
+{% include nav.html %}
 
 We dragged Jonas’ unconscious body out of the house, where Ortor had called the Iron Guard. We healed him and, after some speaking, we understood he probably had been possessed by the obelisk and had no recollection of what had happened. We promised to help and investigate the next day.
 
@@ -20,13 +21,20 @@ We decided to ask the warforged to get the obelisk on a boat and drop it in the 
 As we were going to the Wylkes mansion to check everything was alright, someone approached me to sell some mermaid meat. I’m to meet him tonight near the docks.
 
 As we went down to the cellar, we found the corpse of the butler, which, as RIP learned, had been there for a week. We spoke to him the night before, so something fishy is going on…
-“Could you describe who killed you?” “He looked like me”
-“How did he kill you?” “[Something] on the throat”
-“Were you aware of the obelisk that was brought into the house?” Yes, he was
-“Did the person that looked like you say anything to you?” “No”
-“[Something]” “I served the master well”
+
+> **Q**: *Could you describe who killed you?*
+> **A**: *He looked like me*
+> **Q**: *How did he kill you?*
+> **A**: *[Something] on the throat*
+> **Q**: *Were you aware of the obelisk that was brought into the house?*
+> **A**: *Yes, he was*
+> **Q**: *Did the person that looked like you say anything to you?*
+> **A**: *No*
+> **Q**: [Something]
+> **A**: *I served the master well*
 
 In the library we found some info:
+
 - Geologists believe the climate of the continent has changed in the past millennia, meaning it was less hostile at the time of the giants
 - 5 different types of giants: 
  - Fire giants: Binders Atol

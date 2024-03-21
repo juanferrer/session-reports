@@ -3,10 +3,11 @@ title: "Session 39"
 type: session
 number: 39
 date: 2021-03-13
-
 ---
 
-Sachem “apologised” and fixed Pan’s device.
+{% include nav.html %}
+
+Sachem "apologised" and fixed Pan’s device.
 I also got 4 successes on the shield casting for the sword.
 Abel used her arcane eye to go to the mine in the crater. She found them digging up a warforged colossus. They seem to be a quarter of the way done, so they still have a time to go.
 We left and Abel summoned the demon she was in a pact with. She asked him to send a letter to his brother. He will confirm receipt of the letter.

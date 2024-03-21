@@ -3,8 +3,9 @@ title: "Session 97"
 type: session
 number: 97
 date: 2023-10-21
-
 ---
+
+{% include nav.html %}
 
 After peeking through the north door, we met Hector, who wanted non-gold desperately. I gave him a handkerchief and he dunk it into a box of foul-smelling yellow liquid. I think it was urine. I got rid of it as soon as he was out of sight.
 We decided to move on northward to the library. We found a beholder reading in the library and Elora snuck in to see what she could find out. She thinks she saw something strange inside, so we all went in acting like we belonged. The Librarian was a bit confused, but was keen to accept Abel's donation on One Slabs: Cryptography of the Giants. After that, she went to check out the thing Elora saw, which ended up being a portal. I distracted him asking about books on poison while everyone left through the portal. I followed through the portal while he was fetching some bookmarks for me. I'll drop by on the way out. I don't want to let him down.

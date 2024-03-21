@@ -3,8 +3,9 @@ title: "Session 82"
 type: session
 number: 82
 date: 2023-01-28
-
 ---
+
+{% include nav.html %}
 
 While travelling to the Pirate Fest, Abel and I started working on a design to apply poison to my axe during the battle. It's too slow to do it when the battle starts!
 

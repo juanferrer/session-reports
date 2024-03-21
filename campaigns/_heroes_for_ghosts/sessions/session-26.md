@@ -3,13 +3,14 @@ title: "Session 26"
 type: session
 number: 26
 date: 2020-08-15
-
 ---
+
+{% include nav.html %}
 
 C wants us to let her know if Toquill contacts us again.
 We want to exchange info with her about the evil warforged and the ziggurat and the githyanki.
 Githyanki: There was a war between them and their masters before the arrival of the humans and elves. General Nodar’s ancestors helped win that war.
-Warforged: “Death to the fleshies”. “Lord of Blade”. Maybe rumours, maybe truth, no one’s sure.
+Warforged: "Death to the fleshies". "Lord of Blade". Maybe rumours, maybe truth, no one’s sure.
 
 We worked out a goor arrangement with Sivis for our image rights.
 

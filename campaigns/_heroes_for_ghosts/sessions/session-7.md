@@ -5,10 +5,12 @@ number: 7
 date: 2019-10-26
 ---
 
+{% include nav.html %}
+
 In the chest there was 200 gold (which we split in half with the crew), 2 silver goblets (25 gold each), two rubies (50 gold each, split in half with the crew).
 
 Elora and Abel did some drugs with the sending stone. They heard some language in their heads. The second attempt, Abel cast Comprehend Language and tried again.
-“I do not understand outsider. Captives are taken. What is found in the sea is ours. The door they opened.”
+"I do not understand outsider. Captives are taken. What is found in the sea is ours. The door they opened."
 
 Siberys Dragon Shard (1000g) was the drug they took. It’s used for powering arcane devices (and snorting, apparently).
 The Trolanport port police were looking for him for a while. 2000gp for his capture.
@@ -18,7 +20,7 @@ Eberron Dragonshards can be found all around the Eberron. They are primarily ref
 
 Khyber Dragonshards are used in necromantic and binding rituals. They’re the most dangerous. They’re usually found around fiendish activity.
 
-Siberys can be found all around Korvaire. They are the rarest of the three types. They are mostly found on the continent of Xen’Drik, which draws explorers to the place. It’s used in the crafting of legendary items. This is the crystal they snorted.
+Siberys can be found all around Khorvaire. They are the rarest of the three types. They are mostly found on the continent of Xen’Drik, which draws explorers to the place. It’s used in the crafting of legendary items. This is the crystal they snorted.
 
 117 - 123 Bridgeway Avenue is the address of Toquill’s colleague. He points us to Meina Rufferton, which proposed the theory (Asynchronous Collapse Theory) in which the CPAD is based. Delby is the carer of Toquill’s colleague.
 Metrics Nackle was another assistant.

@@ -3,8 +3,9 @@ title: "Session 80"
 type: session
 number: 80
 date: 2022-12-30
-
 ---
+
+{% include nav.html %}
 
 As we left the city walls, we were met with the scorching heat of Fernia. In the sea of lava there were sort of paths that we could walk on. On the one were were walking on we saw two collapsed humanoids that were carrying a cart. We checked them and one of them was dead. The other one was barely conscious. They were the slaves of some Githyanki trader called Kas'a'lac.
 

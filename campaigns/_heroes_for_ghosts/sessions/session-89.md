@@ -3,8 +3,9 @@ title: "Session 89"
 type: session
 number: 89
 date: 2023-05-06
-
 ---
+
+{% include nav.html %}
 
 We called our brooms to the ship, visited the manticore floor and then spent the night in the governor's office, drinking whisky and preparing for the next day.
 

@@ -3,8 +3,9 @@ title: "Session 53"
 type: session
 number: 53
 date: 2021-10-09
-
 ---
+
+{% include nav.html %}
 
 We started swimming away and the turtle appeared. Elora cast wall of force into a dome, trapping the turtle inside it, not allowing it to follow us.
 
@@ -16,9 +17,9 @@ Camp is full of giants, very well armed. 70 or so dwellings, over 100 there.
 
 The base of the volcano is barren and full of ashes. We find a passage dug into the side of the volcano. There seems to be some activity on two platforms near the entrance. They are digging something?
 
-The warforged-like creatures on top of the platform said he is the “Provo Doll”(?), the commander maker. These creatures seem to be pre-emancipation warforged.
+The warforged-like creatures on top of the platform said he is the "Provo Doll"(?), the commander maker. These creatures seem to be pre-emancipation warforged.
 
-Lidus, Rigva and Nexpo.Tylos is the one in the hut. These are the “masters”.
+Lidus, Rigva and Nexpo.Tylos is the one in the hut. These are the "masters".
 
 RIP started talking to the warforged and convinced them to make themselves free. Their master, Tylos, showed up and we started a fight after Abel dropped a 400lb chainset on him. He almost died. We ended up killing him afterwards.
 

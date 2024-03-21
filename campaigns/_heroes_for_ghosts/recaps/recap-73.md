@@ -5,9 +5,12 @@ number: 73.5
 date: 2022-09-10
 ---
 
-**Start Date**: 17th Zarantry  --- ASTRAL-DAYS 10 (Midday)
+{% include nav.html %}
+
+**Start Date**: 17th Zarantry --- ASTRAL-DAYS 10 (Midday)
 
 We've got presents! Our fans have sent us:
+
 - A selection of pickled humanoid eyeballs
 - Four Wintersday wooly jumpers
 - A mindflayer mask

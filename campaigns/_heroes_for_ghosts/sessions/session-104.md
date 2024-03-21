@@ -3,8 +3,9 @@ title: "Session 104"
 type: session
 number: 104
 date: 2024-01-27
-
 ---
+
+{% include nav.html %}
 
 Back in Eberron, I spent some time studying the cleaver we got from Riman. The cleaver apparently is sentient and has a bloodlust. Probably best to destroy it. But I don't know how just yet.
 Meanwhile RIP and Abel were checking the haversack and book we got from Riman.

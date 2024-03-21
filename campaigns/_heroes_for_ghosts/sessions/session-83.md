@@ -3,8 +3,9 @@ title: "Session 83"
 type: session
 number: 83
 date: 2023-02-11
-
 ---
+
+{% include nav.html %}
 
 We continued through the dungeon and found a corridor with a door. As Elora's character, Ono, opened it, she found two skeletons and started dealing with them with the help of RIP's character, Loose Screws. Mirit (Abel's character) and Gogar (mine) moved on to the next room and went to find the treasure as quickly as possible. There's only one hour, and we need to win this! We tried all doors and Abel used her lockpicks on a few of the doors. There was a grate door that I bypassed using wild shape. A huge spider came down from the ceiling and we fought it. Loose Screws almost dies.
 We walked through the plank on top of the water "icy like the grave" into a room with a crown and a sarcophagus. Ono nailed it shut and Mirit took the crown. In that room we also found one of the statue heads for the puzzle in the main room. We went through and found 4 zombies in the next room. Abel and I rushed down the stairs and found the last chest. Mirit took the golden tricorn that was in the chest and we started running. A banshee appeared from behind the chest and started chasing us. As we got to the top of the stairs we saw that Elora had ragequit and RIP was pretty low, so we decided to book it. As we were leaving, the banshee was at the top of the stairs and used her wail and we all died. That's a bit broken, not gonna lie. Needs rebalancing. In the end we received no points for that game.

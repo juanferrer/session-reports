@@ -5,8 +5,10 @@ number: 3
 date: 2019-08-24
 ---
 
+{% include nav.html %}
+
 We fought the few that broke in. Two groups:
-Two townies that were hired (10gp) to write “Free Elementals PP”
+Two townies that were hired (10gp) to write "Free Elementals PP"
 Three thugs that went downstairs for something.
 
 One of them showed us a tattoo about the monster nation west of Breland. It is used by the Dashk gang, a crime organisation that’s been growing in the last decades. They came to steal a spherical shiny object. The object was to be taken into a cart outside. We can find the one we talked with in the Terminus district and ask for Conny.

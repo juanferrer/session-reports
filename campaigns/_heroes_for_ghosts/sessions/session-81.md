@@ -3,14 +3,15 @@ title: "Session 81"
 type: session
 number: 81
 date: 2023-01-14
-
 ---
+
+{% include nav.html %}
 
 After killing Kifu we decided to let everyone know they should leave. We stopped by the office and had to pick the lock to get the door open. There was no one in, but we found a ledger showing that they were not reporting the profit they were making. Tax evaders. They're the worst… I don't even feel bad for killing him.
 
 We continued our way out and found the guards. We tried to tell them the boss was dead and they should just leave, but they did not listen. We had to kill a few ones, but the last one paid attention and instructed everyone else to leave. We all managed to get something interesting from the warehouse. Here's the story for mine:
 
-> "The Periapt of Wound Closure is a powerful item forged by Olladra, goddess of medicine, in ancient times. It was said that whoever possessed the band would never have to worry about wounds, as they would instantly close and heal upon contact with the wearer's skin. The band was gifted to a great warrior who had been tasked with defeating a monstruous army that threatened the land.The warrior, Pharom Aralar, who had been tasked with defeating the monstruous hordes seeping through the Demon Wastes. Pharom was able to fight for days on end without rest, his wounds closing as soon as they were inflicted. He ultimately emerged victorious as the monsters receded. The Periapt of Wound Closure was passed down through generations of warriors, becoming a symbol of hope and protection in times of war."
+> *The Periapt of Wound Closure is a powerful item forged by Olladra, goddess of medicine, in ancient times. It was said that whoever possessed the band would never have to worry about wounds, as they would instantly close and heal upon contact with the wearer's skin. The band was gifted to a great warrior who had been tasked with defeating a monstruous army that threatened the land.The warrior, Pharom Aralar, who had been tasked with defeating the monstruous hordes seeping through the Demon Wastes. Pharom was able to fight for days on end without rest, his wounds closing as soon as they were inflicted. He ultimately emerged victorious as the monsters receded. The Periapt of Wound Closure was passed down through generations of warriors, becoming a symbol of hope and protection in times of war.*
 
 Anyways, we went to the slave dorms, RIP banished the golem there and we broke the doors to get the slaves out (we couldn't find the
 

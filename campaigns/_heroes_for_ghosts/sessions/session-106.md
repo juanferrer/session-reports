@@ -3,10 +3,12 @@ title: "Session 106"
 type: session
 number: 106
 date: 2024-02-24
-
 ---
 
+{% include nav.html %}
+
 Unveilings:
+
 - 1st: Revealed by Lucienne. Related to the Kitchens/Slaughterhouse. Circle found in Riman's book
 - 2nd: Revealed by Felix, the Mathematician (Man of Numbers). A library of forbidden knowledge. If we enter the library against the librarian's wishes, we need to form a magic circle. Delve into the arcane texts to find the necessary instructions and the law to arrange the symbols.
 - 3rd: Revealed by Linda, the Weeper. Related to the Chapel. We will need to come back for it.

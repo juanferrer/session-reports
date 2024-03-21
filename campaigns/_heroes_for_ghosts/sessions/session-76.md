@@ -3,8 +3,9 @@ title: "Session 76"
 type: session
 number: 76
 date: 2022-11-05
-
 ---
+
+{% include nav.html %}
 
 We asked NorrDog about Landro, but he was not reacting. We think it's inactive. Instead we're going to Arkus, in Metrol.
 
@@ -15,7 +16,7 @@ When we arrived at Metrol, NorrDog wasn't able to find Arkus. We will land to tr
 
 We approached one of the hangars where they stored/built ships. We got in with the portable hole (leaving the bag of holding behind, as we always do). Inside it was pitch black. Couldn't see a thing. We walked for a bit and noticed some footprints. Nearby we saw the scaffolding about the height of a colossus, but it was empty. Then we heard a voice, coming from a skinny humanoid.
 
-> "The doors are locked. 6 cheese, 4 locked, 1 escaped. 8, then 3 suitcases. 5 fingers on his hand. Hangar 9. 1 pudding. Oops, 11. There's 6. 12 eyes."
+> The doors are locked. 6 cheese, 4 locked, 1 escaped. 8, then 3 suitcases. 5 fingers on his hand. Hangar 9. 1 pudding. Oops, 11. There's 6. 12 eyes.
 
 I catched him. He couldn't see me, but I saw he had a dragonmark. House Cannith. I asked him about Arkus, to which he responded. "He was here. But he was gone all along". "The man with the eyes". "Not a beholder" "The man with the white glowing eyes". The Lords of Dust!
 
@@ -36,7 +37,7 @@ Ah, turns out I misremembered the numbers. This is the correct sequence:
 
 We think it's an epidiascope prophecy. After checking, this is what the prophecy said.
 
-> "When the indivisible is mirrored thirty and six futures are shown.  Between the twelfth blind man and an age of rest there lies a change in position and a truth untold."
+> When the indivisible is mirrored thirty and six futures are shown. Between the twelfth blind man and an age of rest there lies a change in position and a truth untold.
 
 Anyways, we dropped Ermi with the Brelish army and went north to Rekkensmithy to speak to the contact. We stopped by Flamekeep to buy some stuff we needed. I got the Eberron-infused copper and an air elemental.
 

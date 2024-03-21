@@ -5,6 +5,8 @@ number: 71.5
 date: 2022-07-02
 ---
 
+{% include nav.html %}
+
 **Start Date**: 10th Zarantry --- ASTRAL-DAYS 10 (Early morning)
 
 We got in and dispatched the first two mind-flayers very quickly, but soon some others showed up. We rescued Abel's brother and were about to leave but he mentioned his prisoner.

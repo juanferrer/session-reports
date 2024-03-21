@@ -5,7 +5,9 @@ number: 97.5
 date: 2023-10-21
 ---
 
-**Start Date**:  11th Therendor  (9am)  - Astral Date 131449
+{% include nav.html %}
+
+**Start Date**: 11th Therendor (9am) - Astral Date 131449
 
 After peeking through the north door, we met Hector, who wanted non-gold desperately. I gave him a handkerchief and he dunked it into a box of foul-smelling yellow liquid. I think it was urine. I got rid of it as soon as he was out of sight.
 
@@ -17,4 +19,4 @@ Abel surprised us all by teleporting in and stood there taking fire from everyon
 
 RIP used antimagic field and tried to hug Vaster, and for the rest of the fight it was RIP and I chasing her, slowly whittling her down while Abel and Elora dealt with the flying books. In the end, Abel destroyed her with a level 9 magic missile.
 
-**End Date**: 11th Therendor  (10am)  - Astral Date 131449
+**End Date**: 11th Therendor (10am) - Astral Date 131449

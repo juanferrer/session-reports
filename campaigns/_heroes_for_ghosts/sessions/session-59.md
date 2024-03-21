@@ -3,8 +3,9 @@ title: "Session 59"
 type: session
 number: 59
 date: 2022-01-15
-
 ---
+
+{% include nav.html %}
 
 The moon connected to the plane of madness appeared to grow bigger. We got released when d’Sivis arrived and fought the remaining goons. RIP did an epic jump kill with sunbeam.
 

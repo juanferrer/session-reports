@@ -3,8 +3,9 @@ title: "Session 84"
 type: session
 number: 84
 date: 2023-02-25
-
 ---
+
+{% include nav.html %}
 
 The battle started. We were on a side island, so we moved over to the bigger one, where we guessed the other team would be. They were hidden in the bushes. One came out and attacked us. The other one let free a bunch of logs at us! The PM went to him and only gave him a strong word. WHAT?! HE COULD HAVE KILLED SOMEONE! They got the PM in their pocket. Cheaters… Anyways, RIP and I still managed to kill the two of them. Abel and Elora killed one of the other two and caught up to Frapplestamp, which was cheatingly looking for the skull. Anyways, he found it, Abel and Elora got in his face and a ghost appeared, grabbed Frapplestamp by the neck and pulled his face off. This is the description I got from Abel, so I didn't see it with my own eyes, but I did see the faceless corpse of the gnome and the discarded face nearby, so it sounds pretty accurate.
 

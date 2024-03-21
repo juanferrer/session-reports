@@ -1,10 +1,12 @@
 ---
 title: "Session 107"
 type: session
+position: last
 number: 107
 date: 2024-03-09
-
 ---
+
+{% include nav.html %}
 
 Quillion used chain lightning onto his own minions to be able to reach us. Both Elora and I were hit. Immediately after, he used Power Word Kill on Elora. She was dead. Enraged, I attacked him, dealing the killing blow. As he died, he said we "set the stage of our own demise". Did we really? Unable to meet its creator, the aberration in the centre collapsed in on itself, before ever experiencing life. Never thought I'd be happy about a stillborn… I guess there's always a first time. There's only Vral'a'yak left. And a few ghosts.
 

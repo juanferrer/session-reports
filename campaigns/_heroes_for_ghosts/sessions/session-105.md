@@ -3,8 +3,9 @@ title: "Session 105"
 type: session
 number: 105
 date: 2024-02-10
-
 ---
+
+{% include nav.html %}
 
 We did our usual stuff and travelled to Xoriat. We searched for Elana, as she was ready now to help us face Xakin. She gave Elora a clay doll depicting Xakin with two female figures. As she tried to communicate with the statuette, she felt compelled to go to the treatment room (great, just where we wanted to go). As she passed the staff room, the elder brain poked its… brain?... out the door and looked at Elora passing by. A fight nearly started, but Elora managed to convince everyone that we were going to get treatment. Even after RIP and BIP hit one of the orderlies with two Toll the Dead.
 

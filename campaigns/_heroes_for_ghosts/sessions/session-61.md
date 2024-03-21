@@ -3,8 +3,9 @@ title: "Session 61"
 type: session
 number: 61
 date: 2022-02-11
-
 ---
+
+{% include nav.html %}
 
 We decided to stay one more day to get some ropes and harpoons installed. We went to check the proto-forged that got itself in jail. We paid its bail and told them to stay out of trouble and ask for permission before doing things.
 

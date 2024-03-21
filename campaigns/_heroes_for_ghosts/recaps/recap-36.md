@@ -5,6 +5,8 @@ number: 36.5
 date: 2021-01-03
 ---
 
+{% include nav.html %}
+
 **Start Date**: 26th Lharviron (Nearly Midnight)
 
 Twenty Two reiterated the need to try and find information on House Cannith land holdings from the Palace of Earth, and to rescue or recover the party of Reforged previously sent there. The party took the obviously logical step of transforming RIP into a T-Rex! And rode the polymorphed warforged across the city to reach the former administrative centre for Cyre! Having picked up a healthy following of Mourners along the way they barred the main doors and began to explore.

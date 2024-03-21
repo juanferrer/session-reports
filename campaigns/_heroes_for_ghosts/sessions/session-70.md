@@ -3,14 +3,15 @@ title: "Session 70"
 type: session
 number: 70
 date: 2022-06-18
-
 ---
+
+{% include nav.html %}
 
 They didn’t want to talk, so I pulled one of them into the wall of blades and attacked the other one. We all then tried to get RIP to harvest their soul.
 
 After the fight, we had a look at the ship and noticed their hibernation pods or something. There were many cables inside the ship, kind of looked like a living thing. 
 Elora cast Speak with Dead on the captain of the pirates.
-He’s seen Abel’s brother on “Pasath”? “Pasath” is near Eyre.
+He’s seen Abel’s brother on "Pasath"? "Pasath" is near Eyre.
 Sarrak is the name of his boss.
 
 Bebe asked us to kill the ship and take it with us for salvage. We got a deal with him for 50% of the value, which he said should be about 10k credits. We expect to be able to sell it in Phoenix station. While killing the ship, we found another githyanki inside a pod, apparently it was connected to the ship and died when disconnected.

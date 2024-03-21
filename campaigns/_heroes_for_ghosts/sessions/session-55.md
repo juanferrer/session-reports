@@ -3,12 +3,13 @@ title: "Session 55"
 type: session
 number: 55
 date: 2021-11-20
-
 ---
 
-“So horny” is Hasanas’ contact in the Hellcieda. They can give us some info.
+{% include nav.html %}
 
-The other band is staying in the room next to the stage. They’re called “Rage Against the Divine”.
+"So horny" is Hasanas’ contact in the Hellcieda. They can give us some info.
+
+The other band is staying in the room next to the stage. They’re called "Rage Against the Divine".
 
 We’re expected to start at 8, the main event is at 10. Trugen is the name of the hostess.
 

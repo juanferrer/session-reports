@@ -3,8 +3,9 @@ title: "Session 102"
 type: session
 number: 102
 date: 2023-12-30
-
 ---
+
+{% include nav.html %}
 
 After putting the cow away, we had a short rest and suffered the consequences of madness.
 We discussed our tactics and then jumped through the portal with Fred at the head, as usual.
@@ -21,6 +22,6 @@ We searched the place and found the following:
 
 After that, we went back to Eberron. Something strange happened. Abel received a message from her brother:
 
-> "Sis, mission at The Grove failed, Vral'a'yak escaped with Quillion's aid. Deeply sorry. We're all ok. Worried about your safety confronting Riman in Xoriat."
+> *Sis, mission at The Grove failed, Vral'a'yak escaped with Quillion's aid. Deeply sorry. We're all ok. Worried about your safety confronting Riman in Xoriat.*
 
 We also received messages from General Nordarr and a report back from the Astral Sea. TL;DR: Jedra was defeated with heavy losses. The Astral Ship with Xakin was defeated by the Githyanki.

@@ -3,8 +3,9 @@ title: "Session 52"
 type: session
 number: 52
 date: 2021-09-11
-
 ---
+
+{% include nav.html %}
 
 We have an airship waiting for us at the Cannith facility. RIP arranged for us to get some ballistas. We plan to have Abel fit it to the brooms.
 We continued towards Henge and found Twins, two detailed statues of giants that guard the entrance of a ruined city.

@@ -3,8 +3,9 @@ title: "Session 85"
 type: session
 number: 85
 date: 2023-03-11
-
 ---
+
+{% include nav.html %}
 
 Iron, Elora's replacement, got here and we convinced him to help us. He didn't even ask for money!
 We decided to use the brooms to get to shore, sneak into a tavern the guards frequent in Gaolgate Town and steal an unlock token from them. We will then climb the infirmity tower and be in there by 7am, with the rest of the prisoners

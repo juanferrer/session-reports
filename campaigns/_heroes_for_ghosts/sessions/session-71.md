@@ -3,8 +3,9 @@ title: "Session 71"
 type: session
 number: 71
 date: 2022-07-02
-
 ---
+
+{% include nav.html %}
 
 We got in and dispatched the first two very quickly, but soon some other showed up.
 

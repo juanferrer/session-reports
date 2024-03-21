@@ -1,10 +1,11 @@
 ---
-title: "Session 104"
+title: "Session 103"
 type: session
 number: 104
 date: 2024-01-13
-
 ---
+
+{% include nav.html %}
 
 One of the first things that happened was Abel using feeblemind on Jedra. He ate it and was drooling for the rest of the fight. Also, Bedra came back from the maze, he wasn't happy.
 

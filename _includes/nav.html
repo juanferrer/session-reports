@@ -1,0 +1,31 @@
+{% assign previous = page.number | minus: 1 %}
+{% assign next = page.number | plus: 1 %}
+
+<style>
+  .nav {
+    text-decoration: none;
+    font-weight: 500;
+
+  }
+
+  .previous,.next {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+</style>
+
+<div class="nav">
+    {% unless page.position == "first" %}
+    <a class="previous" href=".\session-{{previous}}">&lt;</a>
+    {% endunless %}
+
+    {% if page.type == "session"%}
+    <a href=".\recap-{{page.number}}">Recap</a>
+    {% else %}
+    <a href=".\session-{{page.number}}">Session</a>
+    {% endif %}
+
+    {% unless page.position == "last" %}
+    <a class="next" href=".\session-{{next}}">&gt;</a>
+    {% endunless %}
+</div>

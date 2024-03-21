@@ -16,7 +16,7 @@ Vral'a'yak, the Delirium, manifests as a medium-sized aberration that appears to
 
 ![vralayak](/session-reports/assets/images/handouts/vralayak-true-form.png)
 
-> *"In the labyrinth of madness, we encountered Vral'a'yak, the Delirium. Its ever-changing form deceived our senses, and in the whirlwind of chaos, we lost ourselves."*
+> *In the labyrinth of madness, we encountered Vral'a'yak, the Delirium. Its ever-changing form deceived our senses, and in the whirlwind of chaos, we lost ourselves.*
 
 Quote from the Lost Tome of Ithior
 
@@ -38,7 +38,7 @@ Riman, the Frenzy, is a formidable aberration radiating an aura of unrestrained 
 
 ![riman](/session-reports/assets/images/handouts/riman-true-form.png)
 
-> *"As we clashed with Riman, the Frenzy, the battlefield erupted into a frenzy of destruction. Its cleaver attacks swept through our ranks like a tempest, leaving naught but devastation in its wake."*
+> *As we clashed with Riman, the Frenzy, the battlefield erupted into a frenzy of destruction. Its cleaver attacks swept through our ranks like a tempest, leaving naught but devastation in its wake.*
 
 Quote from the Chronicles of the Great War
 
@@ -60,7 +60,7 @@ Xakin, the Paranoia, is a cunning and elusive aberration, lurking in the shadows
 
 ![xakin](/session-reports/assets/images/handouts/xakin-true-form.png)
 
-> *"Beware the Paranoia, Xakin, for its ability to manipulate minds is unparalleled. Its stealthy approach left our party in constant fear, as we couldn't trust our own thoughts."*
+> *Beware the Paranoia, Xakin, for its ability to manipulate minds is unparalleled. Its stealthy approach left our party in constant fear, as we couldn't trust our own thoughts.*
 
 Quote from the Treatise of Mind and Memory
 
@@ -82,7 +82,7 @@ Quillon, the Shatter of Realities, stands as a spell-casting aberration, its pre
 
 ![quillion](/session-reports/assets/images/handouts/quillion-true-form.png)
 
-> *"In the presence of Quillon, the very laws of magic seem to unravel. Our spells faltered as the Shatter of Realities distorted the fabric of existence itself."*
+> *In the presence of Quillon, the very laws of magic seem to unravel. Our spells faltered as the Shatter of Realities distorted the fabric of existence itself.*
 
 Quote from the Codex of Arcane Wonders
 
@@ -104,7 +104,7 @@ Xos, the Lord of Nightmares, exudes an aura of dread and malevolence, its visage
 
 ![xos](/session-reports/assets/images/handouts/xos-true-form.png)
 
-> *"In the realm of dreams, we encountered Xos, the Lord of Nightmares. Its projections into our minds were the stuff of terrors, shaping the very fabric of our nightmares."*
+> *In the realm of dreams, we encountered Xos, the Lord of Nightmares. Its projections into our minds were the stuff of terrors, shaping the very fabric of our nightmares.*
 
 Quote from the Dream Journals of Magus Thalorin
 
@@ -126,7 +126,7 @@ Jedra, the Master of Mind Control, emanates an air of subtle manipulation, its s
 
 ![jedra](/session-reports/assets/images/handouts/jedra-true-form.png)
 
-> *"As we confronted Jedra, the Master of Mind Control, our thoughts became entwined in its web of deception. Its psionic prowess left us helpless, mere pawns in its grand design."*
+> *As we confronted Jedra, the Master of Mind Control, our thoughts became entwined in its web of deception. Its psionic prowess left us helpless, mere pawns in its grand design.*
 
 Quote from the Psionic Codices of Zenira
 
@@ -149,7 +149,7 @@ Vaster, the Queen of Forbidden Knowledge, exudes an aura of profound wisdom and 
 
 ![vaster](/session-reports/assets/images/handouts/vaster-true-form.png)
 
-> *"In the Library of Arcane Secrets, we stood before Vaster, the Queen of Forbidden Knowledge. The allure of its vast wisdom was matched only by the danger that lurked within those hallowed halls."*
+> *In the Library of Arcane Secrets, we stood before Vaster, the Queen of Forbidden Knowledge. The allure of its vast wisdom was matched only by the danger that lurked within those hallowed halls.*
 
 Quote from the Esoteric Scrolls of the Archivist
 

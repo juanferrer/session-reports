@@ -5,6 +5,8 @@ number: 2.5
 date: 2019-08-10
 ---
 
+{% include nav.html %}
+
 **Start Date**: 7th Dravago (Morning)
 
 After nearly a year apart, the Party found themselves looking for work at the Sword and Staffing agency. There they won the favour of the goblin receptionist (Tinx) when Able fixed the waiting room's broken music device. Following a short interview with Ms Ain (Human female) the Party was offered a position working house security for a Mr Toquill Voldak (human male) for a salary of 90 gold a month. 

@@ -5,6 +5,8 @@ number: 12
 date: 2020-01-04
 ---
 
+{% include nav.html %}
+
 After getting into the dungeon, we manage to lure out the boss of the place… with two guards. Elora goes with him into his office (for some sexy time), the guards find us and we fight them. One gets killed, the other is spared. Elora fights the boss and, as we get in, we paralyse him, and start searching the place. RIP finds a chest that is enchanted and starts getting aggressive.
 
 The chest contained the following and it now follows us.

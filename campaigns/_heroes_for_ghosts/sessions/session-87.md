@@ -3,8 +3,9 @@ title: "Session 87"
 type: session
 number: 87
 date: 2023-04-08
-
 ---
+
+{% include nav.html %}
 
 As we were leaving Zorg's palace, we encountered a prisoner that appeared a bit mad. It was the guard at one of the colossus' locations we rescued that was counting numbers. He gave some prophecies. And he's still giving prophecies, moving some numbered matchboxes… and counting numbers. Crazy guy. He removed his pants and ran off, causing a bit of a distraction. Great!
 We went to the place Zorg said and found a room with what appeared to be an air vent. We used a torch and control flame to weld the grate. We used a rope to get down into Stone Ward.

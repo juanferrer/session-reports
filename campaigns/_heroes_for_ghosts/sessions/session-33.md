@@ -3,8 +3,9 @@ title: "Session 33"
 type: session
 number: 33
 date: 2020-11-21
-
 ---
+
+{% include nav.html %}
 
 More work on Meriele’s sword:
 Lan: Creating the blade

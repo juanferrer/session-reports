@@ -3,8 +3,9 @@ title: "Session 91"
 type: session
 number: 91
 date: 2023-06-03
-
 ---
+
+{% include nav.html %}
 
 We couldn't put off Scarlet's return any longer, so we got what we needed for the long trip to the Twilight's Demesne (about 4 days). I was crafting some poison, Abel was learning a spell, RIP prepared his cooking ingredients and Elora offered to shave me. I was due a shave, so why not. She kept some of the beard. Strange… At the end of the second day, she came out with a knock-off of myself! She called him Badrik. He wasn't very capable, but I've been training him and bringing him up to speed with his abilities.
 

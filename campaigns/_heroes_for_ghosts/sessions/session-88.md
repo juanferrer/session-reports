@@ -3,8 +3,9 @@ title: "Session 88"
 type: session
 number: 88
 date: 2023-04-22
-
 ---
+
+{% include nav.html %}
 
 While in the cemetery, the devils that were under Abel's employment showed up to say bye and gave her a gift. Tome 1 of 37 of Daanvi, a Guide to Its Laws, Etiquette and Customs.
 As we went back to One Good Tern, we noticed the sign in my parent's shop dropped the "Daughter". It's now Caebrek Clan Expeditions and Artefact Recovery. They said it's because they want to be more inclusive, as now I'm part of the family. How sweet! We arranged a dinner with my parents and continued to the tavern to get some rooms. Elora got some clothes and a sword for her mother.

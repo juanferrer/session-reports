@@ -3,8 +3,9 @@ title: "Session 96"
 type: session
 number: 96
 date: 2023-09-23
-
 ---
+
+{% include nav.html %}
 
 We shopped, had a hero's feast and got ready to plane shift into Xoriat. We arrived to an nice looking building.
 

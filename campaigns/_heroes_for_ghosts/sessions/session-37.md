@@ -3,8 +3,9 @@ title: "Session 37"
 type: session
 number: 37
 date: 2021-01-16
-
 ---
+
+{% include nav.html %}
 
 We survived the fight. Elora and RIP came back after feeling they were petrified for two years, but it was only 2 rounds. We destroyed the ziggurat with one of the charges from the camp and went up the other hole.
 

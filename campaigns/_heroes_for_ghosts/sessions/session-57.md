@@ -3,8 +3,9 @@ title: "Session 57"
 type: session
 number: 57
 date: 2021-12-18
-
 ---
+
+{% include nav.html %}
 
 After four days going through the tunnels, we prepared for the fight of our lives. Literally. I prepared some poison and RIP made us a heroes’ feast!
 

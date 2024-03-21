@@ -5,6 +5,8 @@ number: 15.5
 date: 2020-03-14
 ---
 
+{% include nav.html %}
+
 **Start Date**: 13th Nymm (early morning)
 
 We began the session with a fight in the stacks of the Great Library at Flamekeep. Through a mix of spells, weapons and crushing the party managed to defeat a number of nothics along with some unknown shadowy creature… But not before the rather unpleasant underkeeper was slain by one while cowering in his office. RIP cast gentle repose on underkeeper to allow the Keeper to pay to revivify him if he chose to.

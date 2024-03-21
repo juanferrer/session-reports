@@ -3,15 +3,19 @@ title: "Session 101"
 type: session
 number: 101
 date: 2023-12-16
-
 ---
+
+{% include nav.html %}
 
 After killing Xos, we saw everyone else disappear. Seraphine informed us that everyone is returned to their rooms after dying here. We looked around and Elora found a book (The Eldritch Anatomy: Unveiling the Symphony of Medical Sorcery). It was written by Xos. He describes the ritual *"that unfurls the tendrils of understanding"*. The entrails of a human, an elf and and a dwarf need to be arranged in a spiral pattern. That's dark…
 Then we recite this words:
 
 > *Vor'thexis en'shadow, ixul mor'tuus,*
+>
 > *Xul'karoth, throsk'athar, enshaduun zythrak*
+>
 > *Zur'tharok, k'yloth enshath*
+>
 > *Glo'ryth ix'urath, ve'kron zy'lothar*
 
 I don't know where we're going to get volunteers for this…
@@ -24,13 +28,20 @@ She checked with us, and we were a bit confused. Abel suggested we imagine a rea
 After that, Cedric recited the following:
 
 > *In the chamber of reflection, shadows cling,*
+>
 > *Seven mirrors stand, a chorus to sing.*
+>
 > *Each pane a portal, illusions entwined,*
+>
 > *To Jedra's dominion, the Master of Mind.*
 >
+>
 > *Fragmented glass, a gateway obscured,*
+>
 > *As seven mirrors shatter, illusions assured.*
+>
 > *Through splintered panes, a corridor twirls,*
+>
 > *To Jedra's realm, where vails unfurl.*
 
 After that, we went back to Eberron. Once in Xen'Drik, we set up a conference call with everyone (Control, the Daughters, Lysee d'Sivis, General Nordar, Shava Darkbrood and Ammeron Adredar). We explained the situation with the Dael'kyr and the help we needed. Everything has been arranged. Control will get us the runes for the teleportation circle in the palace in Wroat. From there we will get our ship to get to the Talenta Plains and take Ammeron to the Astral Sea. He will join forces with Sachem to release and fight one of the Dael'kyr imprisoned in the Grove. In the meantime, Nordar and the rest of the Darguun army will enter Karrnath (with passage from Zorlan d'Cannith). They will reach the place near where the Fey Spire was and release and fight Jedra. Hopefully we can deal with both of them back to back.

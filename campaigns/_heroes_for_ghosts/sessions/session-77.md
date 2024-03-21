@@ -3,8 +3,9 @@ title: "Session 77"
 type: session
 number: 77
 date: 2022-11-19
-
 ---
+
+{% include nav.html %}
 
 We were going through the prophecies and noticed this one:
 "There comes a day when the red lady reveals her true self, no man shall mark the rise of two empires and an end to the monarchy"
@@ -22,7 +23,7 @@ Aniways, we decided to find that spring that could take us under the castle. We 
 As we reached the stream and were considering how to go through, a strange, slithery worm/snake came for us. They almost kill Abel and Pan, but we managed.
 
 We went through the tunnel we found and reached the end and found ourselves in a sort of tank. There was a water-made creature. She, Faxia, was confused when we came out of the tank. When she asked who we were, Elora told her a heavily embellished story about our time with the giants.
-She works for Shanseren. She told us her lord has been preoccupied in the last couple of years. They usually move the castle every so often. Apparently they've been having trouble with moving the castle out of this place, so we offered our help.  She grabbed some water, took it to the kitchen and told us how to get to the main hall. The cook came out of the kitchen and assumed we were there to help, so we did.
+She works for Shanseren. She told us her lord has been preoccupied in the last couple of years. They usually move the castle every so often. Apparently they've been having trouble with moving the castle out of this place, so we offered our help. She grabbed some water, took it to the kitchen and told us how to get to the main hall. The cook came out of the kitchen and assumed we were there to help, so we did.
 
 I helped cool the soup (who wants cold soup?!), Elora cooked (spiked, rather) the steak, Abel prepared the drinks and RIP got the desserts ready.
 

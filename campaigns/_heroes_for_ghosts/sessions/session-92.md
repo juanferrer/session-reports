@@ -3,8 +3,9 @@ title: "Session 92"
 type: session
 number: 92
 date: 2023-07-01
-
 ---
+
+{% include nav.html %}
 
 During combat, one of the guards came to check on Control and another guard happened to walk past her window. The second one saw us… Four telly stars killing the Head of Brelish Intelligence… It's going to be difficult to wiggle out of this one…
 

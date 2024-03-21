@@ -3,8 +3,9 @@ title: "Session 24"
 type: session
 number: 24
 date: 2020-07-18
-
 ---
+
+{% include nav.html %}
 
 We stopped by the tailor, Santzu, and got some new clothes.
 
@@ -30,7 +31,7 @@ Our arguments:
 
 - RIP’s opening statement
 - Receipts from house Ghallanda when Jorasco took the refugees
-- Mr. Copperkettle was feeding the refugees. “Can you describe the dining procedure?”
+- Mr. Copperkettle was feeding the refugees. "Can you describe the dining procedure?"
 - One villager to describe her travel and the period of memory she forgot
 - Calla d’Jorasco describing what they were doing with the refugees
 - Calla d’Jorasco interview with Pan

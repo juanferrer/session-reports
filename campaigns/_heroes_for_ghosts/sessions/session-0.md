@@ -1,13 +1,17 @@
 ---
 title: "Session 0"
 type: session
+position: first
 number: 0
 date: 2019-07-20
 ---
 
+{% include nav.html %}
+
 ## Adrik Silverbeard
 
 ### Backstory
+
 
 Adrik comes from the wealthy dwarven dynasty, the Caebrek clan.
 

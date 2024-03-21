@@ -3,20 +3,21 @@ title: "Session 63"
 type: session
 number: 63
 date: 2022-03-12
-
 ---
+
+{% include nav.html %}
 
 Abel found out about the owner of the locket she found back in session 0. Jeweller’s was called The Golden Goose - on Millerden Street in Flamekeep (Thrane).
 
 Emily Demendry is Control’s name. She is now a changeling.
-Elora set up a passphrase with her mother. “Have you seen the rainbows lately?” “Yes, aren’t they lovely…” I know Elora will forget this, so I’m writing this down.
+Elora set up a passphrase with her mother. "Have you seen the rainbows lately?" "Yes, aren’t they lovely…" I know Elora will forget this, so I’m writing this down.
 Abel thinks Toquill is getting pinged every time someone says his name.
 
 We experienced a vision or some dream as we went to speak to Toquill (in the lower deck).
 Woman in elegant red dress. There was music and a feeling we were alone with her. 
 We appear to be in some private high-end club. There are people of all species. They seem to be enjoying the music.
 They are talking about us. Some doubt we are the chosen. We have the tools. He has assured them about us.
-The people are the Chamber, the leaders of Argonessen (the continent of the dragons). They had more prophecies. Specifically, the prophecy for that place; this place, the place we’re in. This “pocket universe”. Then, they changed the way music worked. They modified the “prophecy” and reality also changed. The “prophecy” is the definition of reality. O.O
+The people are the Chamber, the leaders of Argonessen (the continent of the dragons). They had more prophecies. Specifically, the prophecy for that place; this place, the place we’re in. This "pocket universe". Then, they changed the way music worked. They modified the "prophecy" and reality also changed. The "prophecy" is the definition of reality. O.O
 Magic affects the prophecy. Changes in the world affect the prophecy, the instructions.
 Elora noticed a repeating string of numbers in the instructions: 2-3-5-7-11-13-13-13-11-7-5-3-2
 
@@ -72,7 +73,7 @@ We entered the string of numbers into the prophetic epidiascope. The prophecies 
 
 We ended up going to Sharn. Abel stayed in the ship tuning one of the rods to the Azure Sky.
 
-5 days ago an airship “The Act of Grace” crashed into the ambassadorial tower. They’re not sure why, they’re investigating. The King’s Lanterns are leading the effort. They recovered all of the bodies. It’s a cleanup job. All in the airship died, as there was a fire.
+5 days ago an airship "The Act of Grace" crashed into the ambassadorial tower. They’re not sure why, they’re investigating. The King’s Lanterns are leading the effort. They recovered all of the bodies. It’s a cleanup job. All in the airship died, as there was a fire.
 This officer thinks he was unsure, but thinks it’s strange that an airship had so many warforged. But they can’t fly an airship, so he doesn’t know.
 Blackarch is where the King’s Lanterns are, so we’re going there.
 

@@ -5,7 +5,9 @@ number: 74.5
 date: 2022-09-24
 ---
 
-**Start Date**:  19th Zarantry (Evening)
+{% include nav.html %}
+
+**Start Date**: 19th Zarantry (Evening)
 
 Hard-hitting journalist Lacy Dewlie took a break from infiltrating underground alchemy workshops to visit with the heroes Abel "Bob" Adredar and Adrik "The Devastator" Silverbeard after their gripping and deadly encounter with the Karnathi forces. For your reading pleasure, The Interesting Times presents the unabridged transcription of the interview.
 
@@ -27,7 +29,7 @@ Hard-hitting journalist Lacy Dewlie took a break from infiltrating underground a
 >
 > **Lacy**: It was certainly great to see those brooms in action! So then carrying on, you found a river of sand. Is that when you realised someone might have beaten you to the next Colossus?
 >
-> **Adrik**: Yes, RIP spotted some Karnathi undead soldiers in the sand. Continuing upstream we saw the colossus buried up to its waist and a part of the Karnathi army trying to get on it.  RIP cast earthquake and many of them fell off a bridge they had set up to get on the colossus.
+> **Adrik**: Yes, RIP spotted some Karnathi undead soldiers in the sand. Continuing upstream we saw the colossus buried up to its waist and a part of the Karnathi army trying to get on it. RIP cast earthquake and many of them fell off a bridge they had set up to get on the colossus.
 >
 > **Abel**:Basically RIP lost his shit and nuked them, took out half the force instantly I reckon
 >
