@@ -36,12 +36,9 @@ The execution of the Unbroken Circle marks the first step toward harnessing the 
 
 Upon the completion of the Unbroken Circle, invoke the Second Unveiling with these sacred words, transcribed here for the deserving seeker:
 
-> *Enkaar althor serathor.*
->
-> *Solaireth enthrak varoluth.*
->
-> *Zireth luminar ulithor.*
->
+> *Enkaar althor serathor.*\
+> *Solaireth enthrak varoluth.*\
+> *Zireth luminar ulithor.*\
 > *Arsineh thuval kasrith.*
 
 The chant, an incantation hidden within the echoes of primordial tongues, reverberates through the spaces between dimensions, resonating with the hidden knowledge of eons. The Second Unveiling shall respond to the voice of its master, recognizing the desire to grasp and alter the threads of universal understanding.

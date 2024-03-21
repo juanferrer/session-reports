@@ -32,12 +32,9 @@ Step by step, follow the incantations that stir the shadows, drawing the veil be
 
 7. The incantation: From inside the circle of chain speak:
 
-> *Vortis ekranthos malduum,*
->
-> *Kalithor dominum nefarum,*
->
-> *Sanguineum umbrae vectis,*
->
+> *Vortis ekranthos malduum,*\
+> *Kalithor dominum nefarum,*\
+> *Sanguineum umbrae vectis,*\
 > *Abyssum devinctus, revelem!*
 
 May those who delve into these blasphemous rites beware, for the knowledge within beckons like a siren's call, promising power beyond mortal reckoning. The First Unveiling is a key, unlocking the door to realms unseen, a testament to the insatiable hunger for the forbidden that resides within the hearts of those who dare to peer into the abyss.

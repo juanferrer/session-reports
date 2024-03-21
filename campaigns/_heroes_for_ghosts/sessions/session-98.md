@@ -9,12 +9,9 @@ date: 2023-11-04
 
 The Unseen Codex: Secrets of the Veil appears to be the key to the Second Unveiling. We have to draw a magic circle (diagram provided) and chang the following sacred words:
 
-> *Enkaar althor serathor.*
->
-> *Solaireth enthrak varoluth.*
->
-> *Zireth luminar ulithor.*
->
+> *Enkaar althor serathor.*\
+> *Solaireth enthrak varoluth.*\
+> *Zireth luminar ulithor.*\
 > *Arsineh thuval kasrith.*
 
 We found the index for the library. The other unveilings are in loan to each of the Daelkyr. So we will have to fight them to get them.

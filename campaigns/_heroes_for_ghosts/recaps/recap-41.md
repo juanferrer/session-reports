@@ -11,16 +11,11 @@ date: 2021-04-10
 
 Varhoe described places of interest around Stormreach as the party descended to the town. He explained the town (and to a degree the continent) was run by five families, each headed by a Storm Lord. These families were descendants of former pirates and originally had a royal charter from the Galifar throne about 200 years ago.
 
-**Amanatus - Militia**
-(Storm Lord Yorrick Amanatus - Dwarf)
-**Lassites - Trade & Exploration**
-(Storm Lord Cordelia Lassites - Human)
-**Omaren - Industry**
-(Storm Lord Paulo Omaren - Human)
-**Sel Shadras - Law**
-(Storm Lord Ortor Sel Shadras - Gnome)
-**Wylkes - Harbour**
-(Storm Lord Jonas Wylkeses - Human)
+- **Amanatus - Militia** (Storm Lord Yorrick Amanatus - Dwarf)
+- **Lassites - Trade & Exploration** (Storm Lord Cordelia Lassites - Human)
+- **Omaren - Industry** (Storm Lord Paulo Omaren - Human)
+- **Sel Shadras - Law** (Storm Lord Ortor Sel Shadras - Gnome)
+- **Wylkes - Harbour** (Storm Lord Jonas Wylkeses - Human)
 
 Passing by the building owned by his family, Adrik stopped to investigate, but with no sign of activity within he resolved to return in the morning.
 
@@ -41,11 +36,12 @@ At the florist they discovered Tish had paid for five freshly cut Indigo Allusio
 After some shopping the gang set Varhoe up at the bar and headed to the dinner party in their finest outfits. Elora in her revealing shiftweave, Able in her blue dress, Adrik in his shiftweave military dress uniform and RIP put on a tie. They were greeted by Storm Lord Jonas Wylkeses himself, who was very keen to hear about their Scry show. He showed them to their rooms and bid them to come down for pre-dinner drinks and canapés when they were ready.
 
 Downstairs they met and chatted with…
-Vanatar - the surly butler
-Storm Lord Cordelia Lassites
-Katryl Amanatus - who flirted with Adrik
-Storm Lord Ortor Sel Shadra
-Lacey Omaren
+
+- Vanatar - the surly butler
+- Storm Lord Cordelia Lassites
+- Katryl Amanatus - who flirted with Adrik
+- Storm Lord Ortor Sel Shadra
+- Lacey Omaren
 
 **Loot**: None
 

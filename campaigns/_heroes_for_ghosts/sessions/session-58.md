@@ -13,12 +13,9 @@ Ziggurath. The Cul’Sir used them to lock Quol’Sir (plane of madness). We are
 They are reuniting the 13th plane. They return the outsiders and undo the damage the gatekeepers(?) did.
 The red-haired one starts to recite the aspects of the tools.
 
-> Materia-Partesas: Adrik
->
-> Tempus-Locus: Abel
->
-> Vitas-Mors: RIP
->
-> Momentum: Elora
+> *Materia-Partesas* (Adrik)\
+> *Tempus-Locus* (Abel)\
+> *Vitas-Mors* (RIP)\
+> *Momentum* (Elora)\
 
 Then energy comes out of us into the centre of the ziggurat. A grey disk appears. The 13th moon. This transformed Varhoe into a werebear. The three sisters gather. "The task is done, you can kill them now." and disappeared. The monsters drew their weapons and Pan pulled out the cubic gate and activated it. Some dwarves appeared from Stormreach. A gnome in red-leather appeared. Lysee d’Sivis.

@@ -11,12 +11,9 @@ date: 2024-01-13
 
 We return to Eberron, and spend some time studying the items we got from Riman. Adrik determines that the cleaver is sentient, and creates a terrible bloodlust in its wielder. He thinks it might be best to destroy the cursed item, if we can figure out how. RIP discovers the horrific bag will exchange flesh for money and vice versa, though nobody is keen on eating any flesh being produced by this bag. Abel reads through the book, which describes the ritual for the first unveiling. She attempts a translation of the ritual verse:
 
-> *Words (ecstasy?)…. Slow*
->
-> *(welcome?) master of evil*
->
-> *Bloody shadows bar*
->
+> *Words (ecstasy?)… Slow*\
+> *(welcome?) master of evil*\
+> *Bloody shadows bar*\
 > *The abyss bound, revealed*
 
 We rest up some, do some shopping, and pop to the Astral Sea to catch up with Mero via sending, asking him to come back to the asteroid and we will meet him back here after we take care of some more Daelkyr. Elora creates a simulacrum of herself, I think we are all shocked its taken her this long. After RIP cooks us a glorious Heroes Feast (Abel is really getting used to eating 1000g meals every day) we get a good night's rest, then its back to Xoriat.

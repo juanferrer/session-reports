@@ -22,12 +22,9 @@ Once the ritual space is prepared, invoke the essence of medical enlightenment w
 
 And now, the culmination, the fourth unveiling, where the boundary between the seen and the unseen shatters like brittle glass. In the arcane tongue, spoken in whispers reminiscent of ghostly laments, I utter:
 
-> *Vor'thexis en'shadow, ixul mor'tuus,*
->
-> *Xul'karoth, throsk'athar, enshaduun zythrak*
->
-> *Zur'tharok, k'yloth enshath*
->
+> *Vor'thexis en'shadow, ixul mor'tuus,*\
+> *Xul'karoth, throsk'athar, enshaduun zythrak*\
+> *Zur'tharok, k'yloth enshath*\
 > *Glo'ryth ix'urath, ve'kron zy'lothar*
 
 As these words resonate in the air, the magic circle pulses with an eerie glow, and the very fabric of reality trembles. The fourth unveiling unfolds, exposing the core of medical knowledge in its ghastly splendour.

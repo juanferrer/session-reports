@@ -1,5 +1,14 @@
-{% assign previous = page.number | minus: 1 %}
-{% assign next = page.number | plus: 1 %}
+{% assign previous = page.number | minus: 1 | floor %}
+{% assign current = page.number | floor %}
+{% assign next = page.number  | plus: 1 | floor %}
+
+{% if page.type == "session"%}
+  {% assign oppositeType = "recap" %}
+{% else %}
+  {% assign oppositeType = "session" %}
+{% endif %}
+
+{% assign oppositeTypeTitle = oppositeType | capitalize %}
 
 <style>
   .nav {
@@ -16,16 +25,12 @@
 
 <div class="nav">
     {% unless page.position == "first" %}
-    <a class="previous" href=".\session-{{previous}}">&lt;</a>
+    <a class="previous" href=".\{{page.type}}-{{previous}}">&lt;</a>
     {% endunless %}
 
-    {% if page.type == "session"%}
-    <a href=".\recap-{{page.number}}">Recap</a>
-    {% else %}
-    <a href=".\session-{{page.number}}">Session</a>
-    {% endif %}
+    <a href=".\{{oppositeType}}-{{current}}">{{oppositeTypeTitle}}</a>
 
     {% unless page.position == "last" %}
-    <a class="next" href=".\session-{{next}}">&gt;</a>
+    <a class="next" href=".\{{page.type}}-{{next}}">&gt;</a>
     {% endunless %}
 </div>

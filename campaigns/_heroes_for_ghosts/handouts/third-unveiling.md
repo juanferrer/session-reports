@@ -27,12 +27,9 @@ The ritual, a sacred and arcane rite, stands as the cornerstone of divine creati
 3. Altar of the Ancients: Construct an altar from stones bathed in the aeons of the world's sorrow and joy, each a monument to the ephemeral nature of existence.
 4. Invocation of the Void: At the moment when time hesitates, and the night holds its breath, recite the incantation that calls to the void, beckoning the raw essence of creation to heed your command.
 
-> *Umbrae coniungunt, stellae ordinant,*
->
-> *Dei novi surgunt; dei veteres cadunt.*
->
-> *Per vacuum, voluntates nostrae intrecciantur,*
->
+> *Umbrae coniungunt, stellae ordinant,*\
+> *Dei novi surgunt; dei veteres cadunt.*\
+> *Per vacuum, voluntates nostrae intrecciantur,*\
 > *Hoc cantu, mundus purificatur.*
 
 5. Sacrifice to the Abyss: Offer the components to the abyss, a testament to the sacrifice that creation demands, aligning the cosmic energies to your will.
