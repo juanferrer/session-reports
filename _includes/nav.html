@@ -14,23 +14,48 @@
   .nav {
     text-decoration: none;
     font-weight: 500;
+    border: 2px solid black;
+    width: fit-content;
+    border-radius: 25px;
 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 150px;
+  }
+  
+  .nav a {    
+    color: black;
   }
 
-  .previous,.next {
-    padding-left: 10px;
-    padding-right: 10px;
+  .nav a:hover {
+    text-decoration: none;
+    color: purple;
+  }
+
+  .previous svg,.next svg {
+    vertical-align: middle;
+  }
+
+  .next svg {
+    transform: rotate(180deg);
   }
 </style>
 
 <div class="nav">
     {% unless page.position == "first" %}
-    <a class="previous" href=".\{{page.type}}-{{previous}}">&lt;</a>
+    <a class="previous" href=".\{{page.type}}-{{previous}}">
+      <!-- <img src="../assets/chevron-left.svg" alt="Previous SVG"/> -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left"><polyline points="15 18 9 12 15 6"></polyline></svg>
+    </a>
     {% endunless %}
 
     <a href=".\{{oppositeType}}-{{current}}">{{oppositeTypeTitle}}</a>
 
     {% unless page.position == "last" %}
-    <a class="next" href=".\{{page.type}}-{{next}}">&gt;</a>
+    <a class="next" href=".\{{page.type}}-{{next}}">
+      <!-- <img src="../assets/chevron-right.svg" alt="Next SVG"/> -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left"><polyline points="15 18 9 12 15 6"></polyline></svg>
+    </a>
     {% endunless %}
 </div>
