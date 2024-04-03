@@ -7,7 +7,7 @@ date: 2021-12-18
 
 {% include nav.html %}
 
-After four days going through the tunnels, we prepared for the fight of our lives. Literally. I prepared some poison and RIP made us a heroes’ feast!
+After four days going through the tunnels, we prepared for the fight of our lives. Literally. I prepared some poison and RIP made us a heroes' feast!
 
 We got:
 - Immune to poison
@@ -15,7 +15,7 @@ We got:
 - Adv on Wisdom
 - +10 temp HP
 
-I used the Zafu to scout the area. Here’s what I found:
+I used the Zafu to scout the area. Here's what I found:
 - Some drow to the south. Encampment?
 - Spoiled soil. Excavations, probably.
 - Middle ziggurat has been excavated.
@@ -39,5 +39,5 @@ Here are the powers we got:
 - Fairie: Conjure Woodland Beings (no pixies)
 - Madness: Temporary madness
 
-We now march towards the ziggurat. We have the stuff they’re expecting, so we don’t think they will kill us.
+We now march towards the ziggurat. We have the stuff they're expecting, so we don't think they will kill us.
 

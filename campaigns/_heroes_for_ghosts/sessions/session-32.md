@@ -13,9 +13,9 @@ We fought the beholder, I jumped on top of it after almost dying. RIP blinded it
 
 We also found a device projecting a constellation with text in draconic. It has 13 rings with runes on it. This is the epidiascope! We noted the current combination.
 
-We did some fatal damage to the queen so that she couldn’t be unpetrified. Elora said she was guilty of many horrible things, so she did that. We faked it as damage during the fight and unpetrified Elora’s mum.
+We did some fatal damage to the queen so that she couldn't be unpetrified. Elora said she was guilty of many horrible things, so she did that. We faked it as damage during the fight and unpetrified Elora's mum.
 
-We found some interesting items in the archmage’s office. One of them was an eyeball, which occupied RIPs socket after he pulled his out!
+We found some interesting items in the archmage's office. One of them was an eyeball, which occupied RIPs socket after he pulled his out!
 
 Back in the bank, we opened the northwest vault. Top secret item, apparently.
 

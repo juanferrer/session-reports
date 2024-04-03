@@ -7,26 +7,26 @@ date: 2022-03-12
 
 {% include nav.html %}
 
-Abel found out about the owner of the locket she found back in session 0. Jeweller’s was called The Golden Goose - on Millerden Street in Flamekeep (Thrane).
+Abel found out about the owner of the locket she found back in session 0. Jeweller's was called The Golden Goose - on Millerden Street in Flamekeep (Thrane).
 
-Emily Demendry is Control’s name. She is now a changeling.
-Elora set up a passphrase with her mother. "Have you seen the rainbows lately?" "Yes, aren’t they lovely…" I know Elora will forget this, so I’m writing this down.
+Emily Demendry is Control's name. She is now a changeling.
+Elora set up a passphrase with her mother. "Have you seen the rainbows lately?" "Yes, aren't they lovely…" I know Elora will forget this, so I'm writing this down.
 Abel thinks Toquill is getting pinged every time someone says his name.
 
 We experienced a vision or some dream as we went to speak to Toquill (in the lower deck).
 Woman in elegant red dress. There was music and a feeling we were alone with her. 
 We appear to be in some private high-end club. There are people of all species. They seem to be enjoying the music.
 They are talking about us. Some doubt we are the chosen. We have the tools. He has assured them about us.
-The people are the Chamber, the leaders of Argonessen (the continent of the dragons). They had more prophecies. Specifically, the prophecy for that place; this place, the place we’re in. This "pocket universe". Then, they changed the way music worked. They modified the "prophecy" and reality also changed. The "prophecy" is the definition of reality. O.O
+The people are the Chamber, the leaders of Argonessen (the continent of the dragons). They had more prophecies. Specifically, the prophecy for that place; this place, the place we're in. This "pocket universe". Then, they changed the way music worked. They modified the "prophecy" and reality also changed. The "prophecy" is the definition of reality. O.O
 Magic affects the prophecy. Changes in the world affect the prophecy, the instructions.
 Elora noticed a repeating string of numbers in the instructions: 2-3-5-7-11-13-13-13-11-7-5-3-2
 
 The dragon believes what comes next is the true purpose of the prophecy. They also think there is corruption in it: Zorat. 
-Able asked them about the Outsiders. Powerful beings, they don’t know if they’ve been around longer than dragons. They think these Lords are outsiders. They dwell in Zorat.
+Able asked them about the Outsiders. Powerful beings, they don't know if they've been around longer than dragons. They think these Lords are outsiders. They dwell in Zorat.
 The dragons have records about there being a plane of Thought, but no plane of Madness. Interesting… Could we change it back to the plane of Thought? The corruption needs to end for the prophecy to continue.
 The Daughters of Sora Kell are powerful Fae. They think they understand the prophecy. The Lords of Dust are their masters, they are the ones we need to deal with.
 Zorat should be accessible through the Astral Sea. We should expect the experience to be unsettling.
-There are parts of the prophecy that suggest that all there is to be may become. It could be that what they’re trying to have us do brings about the end of the prophecy. They want it to progress to the next step. The daughters want it to continue to run indefinitely. 
+There are parts of the prophecy that suggest that all there is to be may become. It could be that what they're trying to have us do brings about the end of the prophecy. They want it to progress to the next step. The daughters want it to continue to run indefinitely. 
 The dragons think the prophecy was designed to continue on its own after the prophecy is completed.
 
 They also told us the prophetic epidiascope is a way to string prophecies together, not a way to read the instructions.
@@ -73,9 +73,9 @@ We entered the string of numbers into the prophetic epidiascope. The prophecies 
 
 We ended up going to Sharn. Abel stayed in the ship tuning one of the rods to the Azure Sky.
 
-5 days ago an airship "The Act of Grace" crashed into the ambassadorial tower. They’re not sure why, they’re investigating. The King’s Lanterns are leading the effort. They recovered all of the bodies. It’s a cleanup job. All in the airship died, as there was a fire.
-This officer thinks he was unsure, but thinks it’s strange that an airship had so many warforged. But they can’t fly an airship, so he doesn’t know.
-Blackarch is where the King’s Lanterns are, so we’re going there.
+5 days ago an airship "The Act of Grace" crashed into the ambassadorial tower. They're not sure why, they're investigating. The King's Lanterns are leading the effort. They recovered all of the bodies. It's a cleanup job. All in the airship died, as there was a fire.
+This officer thinks he was unsure, but thinks it's strange that an airship had so many warforged. But they can't fly an airship, so he doesn't know.
+Blackarch is where the King's Lanterns are, so we're going there.
 
 Agent Rule, investigator in charge, told us the following:
 - The ship ignored docking port
@@ -86,7 +86,7 @@ Agent Rule, investigator in charge, told us the following:
 - The airship was packed with combustible materials
 - Captain was aboard the ship
 - Many warforged parts dropped from the airship on crash
-They don’t think the warforged did it. We got the phone number of this Agent Rule. He wants us to put him in touch with Sachem.
+They don't think the warforged did it. We got the phone number of this Agent Rule. He wants us to put him in touch with Sachem.
 
 I got a message from Meriele. She was thrilled with the rapier. She loves the enchantment. Her message was signed with a lipstick kiss.
 
@@ -96,8 +96,8 @@ The colossus has been uncovered. Heavily armed. One of its hands has blades inst
 
 Turns out Sachem actually wanted to have us do the scouting, find a place suitable for them to live and then use a Cannith single-use item to create a permanent teleportation circle. We need to get one of those for ourselves.
 
-We’re leaving tomorrow! Elly will find us in Xen’drik.
+We're leaving tomorrow! Elly will find us in Xen'drik.
 
-I got the front seat! I’m so excited. We got up in the air, 14k ft. and RIP started the craft. It started accelerating so quickly. It was scary. We saw the clouds, then the rings of Siberys, and then the stars… So many stars…
+I got the front seat! I'm so excited. We got up in the air, 14k ft. and RIP started the craft. It started accelerating so quickly. It was scary. We saw the clouds, then the rings of Siberys, and then the stars… So many stars…
 
 We saw Khorvaire, the whole of Eberron from a point of view no one has seen before. Or no one we know, at least. Except maybe Toquill.

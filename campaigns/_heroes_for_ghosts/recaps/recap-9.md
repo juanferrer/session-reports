@@ -24,7 +24,7 @@ After the carriage ride to Groshk the party booked rooms at the Manshead tavern 
 
 Speaking to the sheriff they learned there had been a few incidents where some of the town's residents had gone crazy - this particular goblin had been found out the back of his bakery, gnawing at a dead cow. Able determined the goblin was under the influence of some kind of enchantment - but as they watched that magic appeared to fade and the goblin seemed to return to normal.
 
-Unable to determine a link the party moved on to talk to the men from Doc Ethen's gang. Under RIP's zone of truth one of them agreed to show the party his leader’s hideout in exchange for his freedom. The sheriff agreed to make arrangements for him to be released into the party's custody.
+Unable to determine a link the party moved on to talk to the men from Doc Ethen's gang. Under RIP's zone of truth one of them agreed to show the party his leader's hideout in exchange for his freedom. The sheriff agreed to make arrangements for him to be released into the party's custody.
 
 While still under the zone of truth Elora asked the sheriff about the castle and local leader (Chief Grish). The sheriff seemed uneasy about speaking out against her boss but at the mention of the party's quest to seek out weapons of mass destruction hidden in her town, she agreed to help them. Sheriff Trilug advised against talking to the chief directly stating he was an untrustworthy bugbear. She told them about a secret way into the castle via a sewage outflow near the north east tower.
 

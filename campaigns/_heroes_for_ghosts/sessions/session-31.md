@@ -29,11 +29,11 @@ Dragonshards
 - Beard Begone! (x3)
 - "Arcane"
 
-We met the funniest devil, Hasanas, in the Necromancy wizard’s office (Master of Undead Studies). He was summoned before the Mourning by some "goblin wizard" that told him he would help 4 strangers. He said the goblin wizard had a strange soul, like it was too old.
+We met the funniest devil, Hasanas, in the Necromancy wizard's office (Master of Undead Studies). He was summoned before the Mourning by some "goblin wizard" that told him he would help 4 strangers. He said the goblin wizard had a strange soul, like it was too old.
 He mentioned "The Lady", someone that controls the destiny of the souls?
-This Hasanas mentioned the Watchers. Like they’re not human, although they look human. They seem animated, and their souls look like the souls of rats. Probably the mage-bred humans.
+This Hasanas mentioned the Watchers. Like they're not human, although they look human. They seem animated, and their souls look like the souls of rats. Probably the mage-bred humans.
 
-Found some scrolls in the Divination wizard’s office and the one after that.
+Found some scrolls in the Divination wizard's office and the one after that.
 We saw instructions on how to cast Cloud of Daggers in the classroom blackboard.
 
 After a bit of wandering around the palace and seeing all sorts of abominations work of the Overseer, we got called by him. We saw him and he was a Beholder. 

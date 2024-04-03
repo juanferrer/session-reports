@@ -18,7 +18,7 @@ She wanted:
 - Shares of Scry payments
 - Know who the pilot is
 
-Baron accepted, so she’s now with us. We went to check the loot and discovered a safe, which Elly told us not to open, as it was hers. RIP lock picked it anyways and turned into a chicken. We had to wait for an hour. When we came back, RIP had changed. Something with those chickens!
+Baron accepted, so she's now with us. We went to check the loot and discovered a safe, which Elly told us not to open, as it was hers. RIP lock picked it anyways and turned into a chicken. We had to wait for an hour. When we came back, RIP had changed. Something with those chickens!
 
 We passed the Silvercliff Castle, second home of the Queen of Thrane. Lots of weapons and apparently the airspace is restricted, we had to go around it.
 The night before arriving we passed Fort Light. It was reflecting the moonlight on its shield. They track the sun or the moon to focus the light on enemies and dazzle them.
@@ -27,7 +27,7 @@ Brelish intelligence is floor 13th of a 12-floor building! Wonder what the addre
 
 The King thinks we got the wrong statue. But the other kingdoms think Breland is keeping the queen away and trying to bend her to their will.
 
-Control has a plan, though. She wants us to take an envoy to the Daughters. There are rumours Sora Ketra is able to turn people into changelings. In exchange, Breland will recognise Droaam as another kingdom, which is something they’ve been after for some time. Apparently Control is the one that will be turning into the changeling. Interesting.
+Control has a plan, though. She wants us to take an envoy to the Daughters. There are rumours Sora Ketra is able to turn people into changelings. In exchange, Breland will recognise Droaam as another kingdom, which is something they've been after for some time. Apparently Control is the one that will be turning into the changeling. Interesting.
 
 She will come with us posing as Leleina, a messenger from the Brelish empire.
 
@@ -42,27 +42,27 @@ We also passed the Graywall Mountains. We saw "the monstrous creatures" in the c
 
 We set up a password with Control: "What a lovely necklace" - "Eye, eye!"
 
-The Daughters appear heavily in popular stories. Sora Menya only eats meat. Eat your greens to keep her away. Sora Teresa will come grab you in the night if you don’t obey your elders.
+The Daughters appear heavily in popular stories. Sora Menya only eats meat. Eat your greens to keep her away. Sora Teresa will come grab you in the night if you don't obey your elders.
 
-Something happened in Sharn! In the Scry News reporter we saw falling debris and fires. People looking up and looking scared. Diva Gate, Ambassadorial district. A larander airship has hit one of the towers. Some people think it’s the warforged, maybe related to the change in Lharvion.
+Something happened in Sharn! In the Scry News reporter we saw falling debris and fires. People looking up and looking scared. Diva Gate, Ambassadorial district. A larander airship has hit one of the towers. Some people think it's the warforged, maybe related to the change in Lharvion.
 
-Elora scryed on Sachem. Maybe he is related to the attack? Doesn’t look like it.
+Elora scryed on Sachem. Maybe he is related to the attack? Doesn't look like it.
 
-We finally arrived at the Great Crag. It’s a very big city, many different house styles and species. Some eagle-taloned, winged, feathered humanoids came flying to us. One landed on the ship. It was asking who we were and why we came. I showed him the card I got from the Daughters and it instructed us to not make aggressive moves and to land at the foot of the Crag.
+We finally arrived at the Great Crag. It's a very big city, many different house styles and species. Some eagle-taloned, winged, feathered humanoids came flying to us. One landed on the ship. It was asking who we were and why we came. I showed him the card I got from the Daughters and it instructed us to not make aggressive moves and to land at the foot of the Crag.
 
 We walked the cork-screw-like path up the Crag. We saw strange creatures and were received by a medusa that took us into the Sancus. 
 
 I will ask the Daughters why they saved me? Do I owe them anything? Who are the Lords of Dust?
 
-- Sora Maenya is a hulking creature. She’s the muscle of the group. 8 ft tall. She once crushed a minotaur’s skull with her bare hands. She’s known as the horror of the Eldeen Rears.
-- Sora Teraza is an ancient woman of coal-like eyes. She’s probably the better seer and diviner in Eberron. Her visions guide the strategies and actions of the coven. Towards the end of the book the writer seems to be going crazy and says Teraza visited in his dreams. Blind. Greatest Seer in Eberron.
-- Sora Katra is a charismatic, beautiful, seductive woman. She’s the leader of the group, probably. She appears as a 20-30 year old dressed very provocatively. She takes many lovers of many species and genders.
+- Sora Maenya is a hulking creature. She's the muscle of the group. 8 ft tall. She once crushed a minotaur's skull with her bare hands. She's known as the horror of the Eldeen Rears.
+- Sora Teraza is an ancient woman of coal-like eyes. She's probably the better seer and diviner in Eberron. Her visions guide the strategies and actions of the coven. Towards the end of the book the writer seems to be going crazy and says Teraza visited in his dreams. Blind. Greatest Seer in Eberron.
+- Sora Katra is a charismatic, beautiful, seductive woman. She's the leader of the group, probably. She appears as a 20-30 year old dressed very provocatively. She takes many lovers of many species and genders.
 
 They sent agents to stop Toquill while he was in Sharn. We stopped them. Then they saved me.
 
 The sisters work for them… Oh, no…
 
-They say Eberron, Syberys and Khyber are not dragons, but far greater beings. Huh… Did the dragons lie? They think the Mourning was caused by the dragon’s meddling in the prophecy.
+They say Eberron, Syberys and Khyber are not dragons, but far greater beings. Huh… Did the dragons lie? They think the Mourning was caused by the dragon's meddling in the prophecy.
 
 They also think we are the seekers from the prophecy.
 

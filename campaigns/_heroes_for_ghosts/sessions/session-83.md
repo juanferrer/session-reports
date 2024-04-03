@@ -12,7 +12,7 @@ We walked through the plank on top of the water "icy like the grave" into a room
 
 After that we had the Skiff Race. As we walked in, Fappelstamp was walking out of our boat. We just knew he had done something, so we thoroughly checked the boat and sure enough he had booby-trapped one of the cannons with live ammunition! Was he trying to get himself killed? Anyways, we fixed everything and got ready to mess with them. RIP used his horn of silent alarm, Gogar cast Dust Devil and got ready to man one of the cannons. Elora cast Bigby's hand and RIP used Control Water to slow them down. In short, we cheated a lot. But no one found out, luckily.
 
-As we crossed the first checkpoint, an inflatable crocodile came out of the water and a bunch of people were paddling it towards our boat. Elora spoke with it and made it turn towards the other ship and it started attacking them. Same thing happened shortly after when the kraken, which hadn't been seen since "the incident back in ‘95", came out of the water. I spoke to it this time and pointed him to the slayer of his children, the other boat. It went there and attacked them. As soon as the kraken attacked them, the ship sank.
+As we crossed the first checkpoint, an inflatable crocodile came out of the water and a bunch of people were paddling it towards our boat. Elora spoke with it and made it turn towards the other ship and it started attacking them. Same thing happened shortly after when the kraken, which hadn't been seen since "the incident back in '95", came out of the water. I spoke to it this time and pointed him to the slayer of his children, the other boat. It went there and attacked them. As soon as the kraken attacked them, the ship sank.
 
 Needless to say, we won.
 

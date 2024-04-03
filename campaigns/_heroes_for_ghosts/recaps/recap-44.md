@@ -45,7 +45,7 @@ With Lodon Garrick & Raswor Omantrowl
 >
 > **R**: That spider thing is still blinded and does not know where to fire its beam.
 >
-> **L**: Very nice hit with the bow from the Joker followed by blows from the Devastator. That’s the mantis down.
+> **L**: Very nice hit with the bow from the Joker followed by blows from the Devastator. That's the mantis down.
 >
 > **R**: The golem has reformed and looks to be trying to slip away from the Devastator but he's not having it.
 >

@@ -13,31 +13,31 @@ I got a blindsale shiftweave the included the following outfits:
 7: Goblin leathers (hard leather outfits int dark greens from goblins in Darguun)
 10: Street clothes
 1: Leather asher aviator suit, goggles and knee high boots
-9: Sparkly showman’s suit. Covered in purple
+9: Sparkly showman's suit. Covered in purple
 8: Like Conan, rough hides that hide very little
 
 I asked to get a good one also:
-Traveler’s clothes with boots and a hooded cloak
-Light brown trousers with leather boots along with a white buttoned shirt and a blue jacket with white cuffs and golden buttons (kind of like a captain’s jacket)
+Traveler's clothes with boots and a hooded cloak
+Light brown trousers with leather boots along with a white buttoned shirt and a blue jacket with white cuffs and golden buttons (kind of like a captain's jacket)
 Black tabard with white edges and boots
 Full military uniform. Dark red cloak over a black shirt with strapped pants and shoes (like this: https://vignette.wikia.nocookie.net/living-eberron-wayfinder-files/images/0/08/396E6F82-D611-4FFA-9BF3-BEB50D89EA9B.jpeg/revision/latest?cb=20181022153733)
 Comfortable pyjamas
 
 The Sivis director wanted to talk to us. Doyen is a famous bard that is running the house.
 
-The lawyers were completely useless, we dismissed them immediately. We’re taking the case ourselves.
+The lawyers were completely useless, we dismissed them immediately. We're taking the case ourselves.
 
 Our arguments:
 
-- RIP’s opening statement
+- RIP's opening statement
 - Receipts from house Ghallanda when Jorasco took the refugees
 - Mr. Copperkettle was feeding the refugees. "Can you describe the dining procedure?"
 - One villager to describe her travel and the period of memory she forgot
-- Calla d’Jorasco describing what they were doing with the refugees
-- Calla d’Jorasco interview with Pan
+- Calla d'Jorasco describing what they were doing with the refugees
+- Calla d'Jorasco interview with Pan
 - Feather fall packs proves House Deneth was there
-- Pan’s footage showing the destruction scene and Deneth presence
-- Abel’s friend to talk about Jorasco’s bad character. Many wrongdoings in their history.
+- Pan's footage showing the destruction scene and Deneth presence
+- Abel's friend to talk about Jorasco's bad character. Many wrongdoings in their history.
 
 
 Letters to Lath Sharbul from the Laths that investigated the other three Jorasco sites:

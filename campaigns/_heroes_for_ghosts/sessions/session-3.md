@@ -11,7 +11,7 @@ We fought the few that broke in. Two groups:
 Two townies that were hired (10gp) to write "Free Elementals PP"
 Three thugs that went downstairs for something.
 
-One of them showed us a tattoo about the monster nation west of Breland. It is used by the Dashk gang, a crime organisation that’s been growing in the last decades. They came to steal a spherical shiny object. The object was to be taken into a cart outside. We can find the one we talked with in the Terminus district and ask for Conny.
+One of them showed us a tattoo about the monster nation west of Breland. It is used by the Dashk gang, a crime organisation that's been growing in the last decades. They came to steal a spherical shiny object. The object was to be taken into a cart outside. We can find the one we talked with in the Terminus district and ask for Conny.
 
 The Clustered Planar Annihilation Device (CPAD) is what they came for. It would knot the universe and rip a whole in it. It sucks everything into the vortex towards the astral plane.
 The boss of the thugs has a metal rod: Pod of Collapsing. Moton (Short/Collapse) and Gujat (Long/Extend).

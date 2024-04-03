@@ -18,12 +18,12 @@ We spend a short rest deciding whether we should destroy or try to awaken the co
 
 Where there is truth and law, it follows perfect order. We arranged everything and travelled there. Turns out, Hasanas needs help from Elora to win a bet about the best musician in the planes.
 
-Zariel, the she-devil, is the biggest wig in the event. She’s very powerful. Also, she sounds hot.
-Here’s the plan:
+Zariel, the she-devil, is the biggest wig in the event. She's very powerful. Also, she sounds hot.
+Here's the plan:
 - Abel is the stylist
 - RIP is the voice trainer
 - Adrik carries the bags
 - Varhoe and Brilan are the bodyguards (with suits and sunglasses)
 - And Elora is the artist
 
-Sivis does political espionage. King Koth is involved in the emerald claw, but there’s rumours he’s a vampire.
+Sivis does political espionage. King Koth is involved in the emerald claw, but there's rumours he's a vampire.

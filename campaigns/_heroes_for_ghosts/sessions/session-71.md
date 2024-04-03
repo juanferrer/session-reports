@@ -11,7 +11,7 @@ We got in and dispatched the first two very quickly, but soon some other showed 
 
 We rescued Abel's brother and were about to leave but he mentioned his prisoner. Some Mohim Krodroadd, an elf, sleeper agent. I still think it's Elora's father. Turns out Elora showed him how her father looked and it was him! Called it!
 
-We finally killed the last two Githyanki after they misty stepped into us (‘cause RIP would not drop his anti-life shell…). Abel hacked (different kind of the hacking I do) the machine that controlled the cells and managed to cycle through some kind of security cameras in the ship.
+We finally killed the last two Githyanki after they misty stepped into us ('cause RIP would not drop his anti-life shell…). Abel hacked (different kind of the hacking I do) the machine that controlled the cells and managed to cycle through some kind of security cameras in the ship.
 
 We decided to hide the bodies and have Elora take a look around and find her father. I went with her in case things went south. We first arrived at the life support room, but went past it. Second room had a huge brain in it with a few Githyanki doing something there. Apparently this brain started speaking to Elora in her mind in her father's voice. It said it was Elora's father. He mentioned Quellion (the guy that teleported Elora away in the Tikka's lair) and some other "Five".
 

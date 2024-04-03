@@ -16,5 +16,5 @@ We found a 10 ft. tall Warforged in the crater that would be the centre of the M
 RIP communed with the Gods and asked the following things.
 
 "Will we find a sphere of annihilation in the vault?" No
-"Are the Sachem’s motives true?" Yes
-"Will he help us find Abel’s brother?" Yes
+"Are the Sachem's motives true?" Yes
+"Will he help us find Abel's brother?" Yes

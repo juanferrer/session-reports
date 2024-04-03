@@ -33,7 +33,7 @@ The ritual, a sacred and arcane rite, stands as the cornerstone of divine creati
 > *Hoc cantu, mundus purificatur.*
 
 5. Sacrifice to the Abyss: Offer the components to the abyss, a testament to the sacrifice that creation demands, aligning the cosmic energies to your will.
-6. The Manifestation: As the ritual culminates, a vision of the nascent deity or pantheon emerges from the chaos, shaped by the desires and fears of those who will bow before them. This vision, ephemeral yet potent, solidifies the deity’s presence, weaving it into the very essence of reality.
+6. The Manifestation: As the ritual culminates, a vision of the nascent deity or pantheon emerges from the chaos, shaped by the desires and fears of those who will bow before them. This vision, ephemeral yet potent, solidifies the deity's presence, weaving it into the very essence of reality.
 
 ---
 

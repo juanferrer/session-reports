@@ -52,13 +52,13 @@ Progenitor Dragons
 Continents
 - Sarlona - Humans
 - Aerenal - Elves
-- Xen’Drik - Former Giants and Drow (Dark continent)
+- Xen'Drik - Former Giants and Drow (Dark continent)
 - Argonnessen - Dragons
 - Khorvaire - Our continent (melting pot)
 
 ### Khorvaire
 
-Jarot ir’Wynarn - Last King of Galifar
+Jarot ir'Wynarn - Last King of Galifar
 The Last War - 894-996 YK (112 years)
 The Mourning (20 Olarune 994YK) Cyre was destroyed by fire and magic
 Treaty of Thornehold (996 YK) - Post-war begins/Cold war?
@@ -74,7 +74,7 @@ Treaty of Thornehold (996 YK) - Post-war begins/Cold war?
 - Talenta Plains - Halflings, low-tech, DINOSAURS!
 - Mror Holds - Dwarves, metallurgy
 - Lhazaar Principalities - Pirates, Archipelago
-- Q’Barra - Jungle, elves, lizards
+- Q'Barra - Jungle, elves, lizards
 - Droaam - 
 - Shadow Marches - Aberrations, 
 - Demon Wastes - Demons, barbarians
@@ -86,10 +86,10 @@ We all were soldierd in the Brelish Army
 ## Sources
 
 - Player's Handbook
-- Xanathar’s Guide
-- Mordekainen’s Tomb of Foes
-- Volo’s Guide to Everything
-- Wayfinder’s Guide to Eberron
+- Xanathar's Guide
+- Mordekainen's Tomb of Foes
+- Volo's Guide to Everything
+- Wayfinder's Guide to Eberron
 - UA Ranger
 
 ## Party

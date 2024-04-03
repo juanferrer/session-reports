@@ -23,4 +23,4 @@ Lidus, Rigva and Nexpo.Tylos is the one in the hut. These are the "masters".
 
 RIP started talking to the warforged and convinced them to make themselves free. Their master, Tylos, showed up and we started a fight after Abel dropped a 400lb chainset on him. He almost died. We ended up killing him afterwards.
 
-We freed all of the warforged and they’re not fighting with us. We killed the other one, with Adrik dealing 113 damage and Brlian dealing the killing blow.
+We freed all of the warforged and they're not fighting with us. We killed the other one, with Adrik dealing 113 damage and Brlian dealing the killing blow.

@@ -7,7 +7,7 @@ date: 2022-05-21
 
 {% include nav.html %}
 
-This blonde guy, long fingers and completely white eyes just showed up and stopped the Tikka. I couldn’t hear much of what he said, but he took Elora and told us to meet her at the top of his "fun tower". We will fight the Tikka afterwards.
+This blonde guy, long fingers and completely white eyes just showed up and stopped the Tikka. I couldn't hear much of what he said, but he took Elora and told us to meet her at the top of his "fun tower". We will fight the Tikka afterwards.
 
 We stepped through the door and found ourselves in this small room with a metallic arm holding a blue gem. There were pictograms carved into the sides of the pillar. There were a few lamps that had a hand sign under them. After like 20 minutes of trying different things, we touched 4 hands and the door opened. Huh…
 
@@ -28,12 +28,12 @@ A room appeared, wooden walls, paintings, some flags, two armours, several table
 
 The paintings had 7 people, 7 flowers, 7 boats, 7 cows and 7 houses, all in different paintings. The 7 tables had a descending number of goblets on top of them. RIP moved the goblets so that there were 7 goblets in each table. And then, when opening the door, it led to a purple room.
 
-In the purple room. There were some mushrooms, some rocks and a door at the back of the room. Near us there was a table with a key in it.There are several scorch marks on the floor. Abel tried to pick up the key and then a beholder showed up! There’s only three of us this time…
+In the purple room. There were some mushrooms, some rocks and a door at the back of the room. Near us there was a table with a key in it.There are several scorch marks on the floor. Abel tried to pick up the key and then a beholder showed up! There's only three of us this time…
 
 The thing paralyzed Abel and frightened and slowed me. It was all up to RIP, so he used sunbeam and des-troyed it. The beholder was trying to hide from him near the end, poor thing.
 
 Anyways, Abel ran to the door, opened it and called us over to the door.
 
-We appeared in a tavern. It was lovely, warm fire, food on the table. We took some time to investigate and found nothing to do. Abel suggested going to sleep was the solution, so we tried that. After half an hour we checked on her again and she wasn’t there. We decided to go to sleep, hopefully following her.
+We appeared in a tavern. It was lovely, warm fire, food on the table. We took some time to investigate and found nothing to do. Abel suggested going to sleep was the solution, so we tried that. After half an hour we checked on her again and she wasn't there. We decided to go to sleep, hopefully following her.
 
-And we finally got to Elora. She was in a cage and the Tikka was in another one. 7 candles were arranged in front of Elora’s cage and 4 exposed flames around the Tikka’s cage. We used the different colours of the lights to light the candles, which opened both cages. Fight!
+And we finally got to Elora. She was in a cage and the Tikka was in another one. 7 candles were arranged in front of Elora's cage and 4 exposed flames around the Tikka's cage. We used the different colours of the lights to light the candles, which opened both cages. Fight!
