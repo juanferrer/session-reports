@@ -19,10 +19,10 @@ What they had prepared:
 
 - 1st: Slaughterhouse - Life and Death (Erase dragons)
 - 2nd: Library - Change in technology (Bestow some sort of dragonmark on warforged)
-- 3rd: - Nature of the Divine (Ascend the Daughters into a triumvirate gods of Chaos)
-- 4rd: - Medicine, healing or their anthitesis (Enact a magical plague to corrupt all of Eberron)
-- 5th: - Change in Magic (Wild magic throughout all of Eberron)
-- 6th: - Evolution of Species (Replace all humanoid species with other humanoid species).
+- 3rd: Nature of the Divine (Ascend the Daughters into a triumvirate gods of Chaos)
+- 4rd: Medicine, healing or their anthitesis (Enact a magical plague to corrupt all of Eberron)
+- 5th: Change in Magic (Wild magic throughout all of Eberron)
+- 6th: Evolution of Species (Replace all humanoid species with other humanoid species).
 
 What we will do:
 
