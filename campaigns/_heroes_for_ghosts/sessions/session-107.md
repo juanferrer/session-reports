@@ -1,7 +1,6 @@
 ---
 title: "Session 107"
 type: session
-position: last
 number: 107
 date: 2024-03-09
 ---
