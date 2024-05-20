@@ -18,6 +18,8 @@ During the meeting, they were made privy to the harrowing reports coming from As
 
 Patrisha had outlived her husband and four children when escaping the massacre, which left her emotionally broken. Her physical injuries were being treated by medical professionals from the Church due to the sensitivity of the information she held.
 
+After this, Tobias went to meet with his boss, Ignatius Mogg. When asked for possible information or help for the assignment, Ignatius offered to teach him a different kind of magic. They spent the full Monday working on this and Tobias discovered the Forbidden tradition.
+
 The journey through the plains was quick and uneventful and they reached Asylum a few days later. Heavy rain, dark clouds and empty houses welcomed the party, as well as many a cart laden with old corpses. Upon inspection, some of them appeared to be "dried husks", while other looked like regular corpses in some state of decomposition.
 
 While looking around the village, they found a ghoul in one of the houses feasting on the flesh of a deceased villager. Such abomination was not to stand, so Vrok charged the creature helped by Tobias' Impose Predictability. Owl and Tobias also hurt their target, which caused it to flee, only for it to be Swapped back into battle by Pacts. They quickly finished the creature, but not before it seriously wounded Owl. This mishap resulted in the rest of the day and much of the next being used to treat her and restore their strength. They decided that, even though this was an atrocity, they would not engage with ghouls at this time, as the risk to life was too great. And they had a more important task.
