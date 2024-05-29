@@ -7,6 +7,8 @@ number: 0
 date: 2024-05-18
 ---
 
+{% include nav.html %}
+
 The party consists of four people:
 
 ## Owl

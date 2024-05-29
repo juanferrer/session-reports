@@ -6,6 +6,8 @@ number: 1
 date: 2024-05-18
 ---
 
+{% include nav.html %}
+
 **Start Date**: 20th August YL 1337, around noon
 
 The party started in a burning building extracting an unconscious Fredrich Nel, the leader of the Crimson Court. The fire had pushed them back into one of the first floor rooms and they were forced to exit through one of the windows. Vrok and Owl valiantly jumped down while Pacts fashioned a rope out of the curtains. Both him and Tobias used them to reach the ground. In the street, the people that had gathered rushed to their aid. They were hailed as heroes.
