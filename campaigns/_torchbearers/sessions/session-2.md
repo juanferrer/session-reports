@@ -33,7 +33,7 @@ After the event they found no trace of the fissure, but they decided to recover 
 
 They continued their journey and as they passed the Black Lake, Owl shared a folk tale about the origin of the lake's dark tones. She spoke of a giant freshwater squid that was hunted by a local tribe. When killed, it sank, releasing ink all the way to the bottom of the lake, forever changing the colour of the water.
 
-![Fort of Neverfall](/assets/images/art/neverfall-fort.jpg)
+![Fort of Neverfall](/session-reports/assets/images/art/neverfall-fort.jpg)
 
 The plains gradually gave way to the desert, where they changed to sleeping during the day and travelling at night. They arrived on the ninth night. The guards at the gate let them through when they said they were on church business and accompanied by a member of the clergy. Instead of going to the inn as instructed they decided to crash in the barn just behind the property. They found a cozy spot in the hay and slept until worken up by the singing of an oblivious Vittoria. She runs the inn along with Harold, her husband. Over breakfast they discussed the purpose of their visit and asked for details regarding the area and a possible passage through the mountains.
 

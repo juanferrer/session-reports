@@ -16,7 +16,7 @@ They escorted Nel to the Shrine's prison and was handed over to the guards, who 
 
 In the weeks that followed, they continued with their usual work, received news of Frederich's sentencing and, as expected, received a new summons.
 
-![Council Hall](/assets/images/art/council-hall.jpg)
+![Council Hall](/session-reports/assets/images/art/council-hall.jpg)
 
 During the meeting, they were made privy to the harrowing reports coming from Asylum. They were asked to investigate those events and whether there was any connection to the warnings by the child-prophets regarding the end of the world. Tobias requested horses for the travel to Asylum, and each of them received a horse for the assignment. Pacts requested a new assistant to replace his current, illiterate apprentice and was told his request would be considered. Owl asked to speak with a survivor, and a meeting was arranged.
 
