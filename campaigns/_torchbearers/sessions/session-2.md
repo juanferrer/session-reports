@@ -15,7 +15,7 @@ After finding a house with a good view of the well, Owl and Tobias went out to i
 - "Dry as a corn husk"
 - "Torn open during the massacre"
 
-![Asylum Inn](/assets/images/art/asylum-inn.jpg)
+![Asylum Inn](/session-reports/assets/images/art/asylum-inn.jpg)
 
 Investigating the other houses, they arrived at the tavern, which had been spared from the slaughter. Behind the bar they found an assortment of liquors, a set of keys and a few bits. In the kitchen they found some dried fruit and meat among crates of spoiled food. Upstairs they found the owners' bedroom with the door open and the bed undone, as if someone has left in a hurry. Upon closer inspection, Tobias found a loose floorboard, under which he found a small box with what they assumed were the owners' savings. The group decided to apportion the coin to "increase the church coffers". There were also three other rooms ready for guests, but these three were locked.
 
