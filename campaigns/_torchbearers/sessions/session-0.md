@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Recap 0"
-type: recap
+title: "Session 0"
+type: session
 position: first
 number: 0
 date: 2024-05-18
