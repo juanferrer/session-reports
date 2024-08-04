@@ -12,7 +12,7 @@ date: 2024-06-29
 
 Vrok pushed aside the stone slab blocking the entrance to the tunnel. It was sloped down and there was a set of stairs about two metres in. They ventured into the depths and after about 25 meters, they reached a levelled area. There was a corridor and a door on their left. Doubting the safety of the main corridor, they went through the door instead, which led to a set of stairs going down. At the bottom there was a large room with pools of water and polished metal mirrors on either side. When looking into the mirror, they saw infinite copies of themselves. At the end they found a door with no keyhole. This one was locked.
 
-After experimenting a bit, Tobias tried to look at the door through the mirrors. He noticed that there was no keyhole when looking through the mirror, but looking into water, he could see the reflection of the door in the mirror. And that one did have a keyhole! They tried a similar trick checking the rest of the room and they found a key floating in the air near the entrance. Owl mimicked grabing the key while looking at herself through the reflections, pushing the key into the door and turning it, which successfully unlocked the door.
+After experimenting a bit, Tobias tried to look at the door through the mirrors. He noticed that there was no keyhole when looking through the mirror, but looking into water, he could see the reflection of the door in the mirror. And that one did have a keyhole! They tried a similar trick checking the rest of the room and they found a key floating in the air near the entrance. Owl mimicked grabbing the key while looking at herself through the reflections, pushing the key into the door and turning it, which successfully unlocked the door.
 
 ![Hallway](/session-reports/assets/images/art/inverted-pyramid-hallway.jpg)
 
@@ -25,7 +25,7 @@ As before, Vrok went first. They arrived at room of a similar size to the one th
 >Sephoris was the father of Sebek-nekht,<br>
 >Sebek-nekht was the father of Meffantis, who was king during the incursion,<br>
 >Meffantis was the father of Akila<br>
->Akila was the mother of Ab Nefer<<br>
+>Akila was the mother of Ab Nefer<br>
 >Ab Nefer was the father of King Reseph, who ruled justly all his days.
 
 Pacts recognised the name Meffantis from the Memoirs of Grigor Spasic and made a mental note to check when they went back home.
@@ -62,11 +62,11 @@ Inside they encountered an inverted pyramid much like the one in the top level. 
 
 ![King Reseph](/session-reports/assets/images/art/mummy.jpg)
 
-Vrok immediately started swinging his axe. The mummy hit its target one more time, cracking open the head of the corpse, which fell inanimate to the ground. Pacts cast division on one of the skeletons causing it to explode into many pieces. Pacts became a large threat and was swarmed by two skeletons, who took him down. Owl rushed up the stairs and so did Tobias. Vrok ran through the battlefield, grabbed the relic and climbed the wall to the stairs. Giving one last look at Pacts, they run all the way up and closed the door behind them.
+Vrok immediately started swinging his axe. The mummy hit its target one more time, cracking open the head of the corpse, which fell inanimate to the ground. Pacts cast division on one of the skeletons causing it to explode into many pieces. Pacts became a big threat and was swarmed by two skeletons, who took him down. Owl rushed up the stairs and so did Tobias. Vrok ran through the battlefield, grabbed the relic and climbed the wall to the stairs. Giving one last look at Pacts, they run all the way up and closed the door behind them.
 
-Licking their wounds, they went back to the soldiers. Seeing their state, they were not keen on going down there to retrieve Pacts, but agreed to help anyways. They gave a spare rifle to Tobias and showed him how to use it.
+Licking their wounds, they went back to the soldiers. Seeing their state, the soldiers were not keen on going down there to retrieve Pacts, but agreed to help anyways. They gave a spare rifle to Tobias and showed him how to use it.
 
-Reinvigorised, they returned to the king's chamber. They could hear Pacts still breathing, but didn't know how long he had left. As soon as the door was opened, Vrok rushed in and nearly killed one of the boneguards. Owl threw a torch to the mummy and instructed Marten to do the same. They both hit, but it wasn't enough to set it on fire.
+Reinvigorated, they returned to the king's chamber. They could hear Pacts still breathing, but didn't know how long he had left. As soon as the door was opened, Vrok rushed in and nearly killed one of the boneguards. Owl threw a torch to the mummy and instructed Marten to do the same. They both hit, but it wasn't enough to set it on fire.
 
 All the skeletons rushed up the stairs and Vrok began pushing them off. In the meantime, Owl, Marten and a soldier prepared a rope for Owl to jump down, tie it around Pacts and be pulled up. The first time they didn't manage to pull them all the way up. Just as the mummy reached Vrok, Owl and Pacts were safe on the platform. Everyone left the room hastily and closed the door, this time for good.
 
