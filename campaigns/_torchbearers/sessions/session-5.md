@@ -57,6 +57,8 @@ Pacts met his new assistant, Yartham, a young and handsome man who worked out mo
 
 Owl did some research trying to find information on the relic and didn't find much specifically mentioning it. What she did find was the opinion of different authors pointing out inconsistencies in the texts and how the Witness might be incomplete.
 
+Vrok met Felix, a flaunty and wealthy-looking goblin who hired him to "help the boys" from time to time. Probably to scare peasants or something.
+
 After a few weeks, Tobias checked the relic as he did every morning. This time, the relic was pulling to three new locations.
 
 **End Date**: 18th October YL 1337, early morning
