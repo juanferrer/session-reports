@@ -56,6 +56,4 @@ A watch was set up, but Owl fell asleep during hers. When Tobias woke up for his
 
 The music was coming from the way the relic was pointing to. A bit further down from where the feast had taken place, they found a clearing in the woods. The moon was bright, but the fog was thick; they saw their little silhouettes dancing. But next to them they could see Arish, cut open and hanging from his feet.
 
-===
-
 **End Date**: 6th November YL 1337, foredawn
