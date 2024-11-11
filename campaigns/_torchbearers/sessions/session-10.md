@@ -3,7 +3,7 @@ layout: post
 title: "Session 10"
 type: session
 number: 10
-date: 2024-09-21
+date: 2024-10-19
 ---
 
 {% include nav.html %}
@@ -22,7 +22,7 @@ Sure enough, as they approached the boundaries of the city, they could smell the
 
 Seeing them do all of this inspired the watch-boy, who was instructed by Owl to go to Crossings, find Rosamund and report the incident.
 
-Further north, as they approached the mountains, they began encountering smaller villages where they were able to purchase warmer clothing and exchange their horses for mules. The merchant exchanged the clothing and services for a few of the boxes of cigars they had bought as gifts for the dwarves. They made their way up the mountain to their village but were not well received. No one was interested in them as soon as they saw they carried no tradeable goods.
+Further north, as they approached the mountains, they began encountering smaller villages where they were able to purchase warmer clothing and exchange their horses for mules. The merchant exchanged the clothing and services for a few of the boxes of cigars they had bought as gifts for the dwarves. Tobias threw in the marble as well. They made their way up the mountain to their village but were not well received. No one was interested in them as soon as they saw they carried no tradeable goods.
 
 Eventually, the group made their way into the local drinking place, an extremely spartan tavern. The people ate, drank and left. They struck a conversation with Stavros, the unapproachable barkeep, who poured them each a pint of, allegedly, the mildest ale they served. Owl pretended to drink, but Tobias, Pacts and Vrok all took a sip. It burned like hell, but they managed to contain themselves to the pleasant surprise of Stavros. From there, they found Rufus, a guide brave or reckless enough to take them east, where the relic was pointing.
 
@@ -32,4 +32,4 @@ A preparation for the beginning of winter, it snowed consistently, if lightly, f
 
 One night, during Owl's watch, she heard a large creature approach. From the darkness appeared a large, yet unusual, creature. A troll, dressed in rags, but highly well spoken when compared with its kin. "Who goes there?"
 
-**End Date**: 11th December YL 1337, foredown
+**End Date**: 11th December YL 1337, foredawn
