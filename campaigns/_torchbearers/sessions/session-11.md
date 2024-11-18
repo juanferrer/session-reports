@@ -3,7 +3,7 @@ layout: post
 title: "Session 11"
 type: session
 number: 11
-date: 2024-10-19
+date: 2024-11-02
 ---
 
 {% include nav.html %}
