@@ -27,4 +27,4 @@ And so, now out of Foundry, they rushed their horses as far from the city as the
 Back in Crossings they were not able to meet with Rosamund due to the council, but received some information about their previous requests. Hoping to do some good, they hatched a plan to cause Felix, Vrok's moonlight employer, to take the blame for a Lucian's fake death. What could go wrong?
 
 
-**End Date**: 1st February Yl 1337
+**End Date**: 1st February YL 1338, morning
