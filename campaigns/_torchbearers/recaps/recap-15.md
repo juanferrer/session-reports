@@ -2,8 +2,8 @@
 layout: post
 title: "Recap 15"
 type: recap
-number: 15
-date: date: 2025-01-11
+number: 15.5
+date: 2025-01-11
 ---
 
 {% include nav.html %}
