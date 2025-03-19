@@ -4,7 +4,6 @@ title: "Session 19"
 type: session
 number: 19
 date: 2025-03-08
-published: false
 ---
 
 {% include nav.html %}
