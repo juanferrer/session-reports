@@ -8,7 +8,7 @@ date: 2025-02-22
 
 {% include nav.html %}
 
-**Start Date**: 14th February YL 1138, mid-day
+**Start Date**: 14th February YL 1138, noon
 
 In complete shock, the group observed the skeleton methodically wake each of its companions. When all four were up, they left the dormitory towards another chamber, this one smaller with a torch fresco in one of the walls. They each lit a candle and held it by the door, waiting for the party to catch up. Very hesitantly, they entered the room and tried to light candles of their own, but after some back and forth, they realised they needed to go into the room towards the painted wall.
 

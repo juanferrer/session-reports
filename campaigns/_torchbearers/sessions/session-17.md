@@ -30,4 +30,4 @@ Not wanting to risk any more attacks, they pressed on until they arrived at a st
 
 Inside, they discovered a mostly abandoned building with sign of earlier habitation, but long unused. One of the rooms was a dormitory, with several bunk beds with dressed skeletons in a few of them. While trying to discover the cause of death, one of them moved.
 
-**End Date**: 14th February YL 1138, mid-day
+**End Date**: 14th February YL 1138, noon
