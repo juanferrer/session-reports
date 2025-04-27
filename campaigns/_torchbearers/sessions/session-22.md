@@ -29,4 +29,4 @@ The opening led to an underwater cave where they encountered a dwindling civiliz
 When the group attempted to leave, they intended to keep Owl as an "offering". Pacts turned Owl invisible and blood hit the water. Vrok went off, quickly killing Thalorian and his guard, but not before they reverted their Gift of Water Breathing and leaving the group breathless.
 
 
-**End Date**: 31st March YL 1338, afternoon
+**End Date**: 23rd March YL 1338, afternoon
